@@ -1,0 +1,219 @@
+一、元素定位
+    1、ID元素定位
+        """
+        wd.find_element(By.ID,'username')
+        id是标签的唯一属性，可以通过id属性来唯一定位一个元素
+        """
+    2、NAME元素定位
+        """
+        wd.find_element(By.NAME,'username')
+        """
+    3、CLASS_NAME元素定位
+        """
+        wd.find_elements(By.CLASS_NAME,'inputBg')[2].send_keys('123456')
+        """
+    4、TAG_NAME元素定位
+        """
+        wd.find_element(By.TAG_NAME)
+        tag_name就是标签名
+        """
+    5、CSS_SELECTOR：css选择器元素定位
+        """
+        css是用来描述HTML和XML的显示样式，懂前端就懂这些
+        wd.find_element(By.CSS_SELECTOR,'.box #username')
+        """
+
+        !!! 属性选择器
+        """
+        单个属性定位
+        wd.find_element(By.CSS_SELECTOR,'[type="text"]')
+        """
+        """
+        多个属性定位
+        wd.find_element(By.CSS_SELECTOR,'input[type="text"][id="username"]...')
+        """
+    6、link_text超链接文本定位
+        """
+        wd.find_element(By.LINK_TEXT,"我已有账号，我要登录").click()
+        """
+    7、partial_link_text定位，通过超链接文本部分内容来定位
+        """
+        wd.find_element(By.PARTIAL_LINK_TEXT,'我已有账号').click()
+        """
+
+    8、XPATH定位方式（全能）
+        1）绝对路径
+        语法：/html/body/div[7]/div/form/table/tbody/tr[1]/td[1]   /表示根节点
+        说明：通过根元素开始一级一级向下定位，路径中使用元素的标签名和索引
+
+        2）相对路径
+        语法：//*[@id="username"]
+        说明： 使用‘//’从任意位置开始查找，*表示任意标签（可以替换成任意标签），[@attribute="value"]用于筛选指定属性元素（attribute替换为属性名）
+
+        3）通过文本内容定位
+        语法：//*[text()="用户协议"]
+        说明：文本内容必须完全相等，比如：<a href="article.php?cat_id=-1" style="color:blue" target="_blank">用户协议</a>
+
+        4）通过部分文本内容定位
+        语法：//*[contains(text(),"忘记密码")]
+        说明：使用contains(text(),value)
+
+        5）通过元素属性定位
+        语法：//*[@attribute=value]
+        说明：定位指定属性的元素
+
+        6）使用逻辑运算符定位元素
+        语法：//*[@id="username" and @name="username"]
+        说明：使用and、or等逻辑运算符结合多个条件进行定位
+
+        7）使用函数语法定位
+        语法：
+        说明：使用xpath函数，如contains()、text()、not()等元素属性进行匹配
+
+
+二、常见函数
+用于元素交互，在网页上执行各种操作
+    1、click()元素点击
+
+    2、send_keys()输入参数
+
+    3、Select(ele)下拉选择框
+        """
+        element = wd.find_element(By.NAME,'sel_question')
+        select = Select(element)
+        # 通过索引选择选择下拉选项
+        select.select_by_index(n)
+
+        # 通过下拉选项标签的value值定位
+        select.select_by_value('friend_birthday')
+
+        # 通过下拉选项标签的文本定位
+        select.select_by_visible_text('可见文本')
+
+        # 取消下拉框勾选
+        select.deselect_by_index(n)
+        select.deselect_by_value('friend_birthday')
+        select.deselect_by_visible_text()
+        select.deselect_all() # 取消全部下拉狂选项
+        """
+
+    4、警告框处理
+        """
+        alert = wd.switch_to.alert
+        sleep(2)
+        alert.accept() 确认
+        alert.dismiss() 取消
+        """
+    5、单选按钮处理
+
+    6、滑动条处理
+        """
+        wrap = wd.find_element(By.ID,'j_idt106:j_idt120')
+        wrap_width = wrap.size['width']
+        # 计算要拖动的偏移量
+        offset = wrap_width/5
+        action = ActionChains(wd)
+        action.click(wrap).move_by_offset(offset,0).release().perform()
+        # 其中release()是释放鼠标完成拖动，perform()是执行以上定义的动作链
+
+        """
+
+    7、文本框自增或自减操作
+        """
+        number_input = wd.find_element(By.ID,'j_idt106:j_idt118_input')
+        number_input.clear()
+        number_input.send_keys(Keys.ARROW_UP)
+
+        """
+    8、日期选择
+        """
+        # 日期选择
+        ele = wd.find_element(By.ID,'j_idt106:j_idt116_input')
+        ele.click()
+        # 定位到日期选择元素
+        date_ele = wd.find_element(By.XPATH,'//*[@id="j_idt106:j_idt116_panel"]/div/div[2]/table/tbody/tr[3]/td[5]/a')
+        date_ele.click()
+        """
+
+    9、窗口最大化
+        """"
+        wd.maximize_window()
+        """"
+
+    10、页面截图
+        """
+        wd.save_screenshot('src.png')
+        """
+
+    11、模拟鼠标键盘操作
+        1）键盘操作
+        全选复制
+        """
+        ActionChains(wd).key_down(Keys.CONTROL).send_keys('a').key_up(Keys.CONTROL).perform()
+        """
+
+        2）鼠标操作
+        左键点击
+            ele.click()
+        右键点击
+            ActionChains(wd).context_click(ele).perform()
+        双击
+            ActionChains(wd).double_click(ele).perform()
+        鼠标悬停
+            ActionChains(wd).move_to_element(ele).perform()
+        拖拽
+            ActionChains(wd).drag_and_drop(lines_ele, target).perform()
+        鼠标滚动
+            ActionChains(wd)
+            使用js实现
+            wd.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+
+    12、元素等待方式
+        1）强制等待
+            """
+            sleep(3)
+            """
+        2）显示等待，明确要等待某个元素的出现，当超出规定的时间，抛出异常
+            """
+            WebDriverWait(wd,1).until(
+                EC.presence_of_element_located((By.ID,'j_idt88:j_idt91'))
+            )
+            """
+        3）隐式等待，整个生命周期都会生效，执行每个元素定位都会生效
+            """
+            wd.implicitly_wait(10)
+            """
+        区别：
+            · 作用范围：
+                显示等待仅在特定条件和特定元素上生效，而隐式等待是全属性，影响webDriver实例的每一个定位元素操作
+            · 等待方式：
+                显示等待基于具体的条件等待，可以更加灵活的等待元素的可见性。隐式等待是全局等待，简单的等到固定的时间，对所有的定位操作都生效
+            · 语法和使用
+                显示等待使用WebDriverWait和expected_conditions来指定等待条件和超时时间，而隐式等待使用implicitly_wait设置等待时间
+            · 异常处理：
+                显示等待使用try/except来捕捉异常TimeoutException异常，可以在超时时定义处理逻辑。隐式等待会在每一个定位元素的时间自动等待指定的时间，不需要显示异常处理
+
+    13、frame、iframe定位和切入切出，frame在H5已经被废弃
+        """
+        iframe = wd.find_element(By.XPATH,'//iframe[@src="default.xhtml"]')
+        # 切换到子窗口
+        wd.switch_to.frame(iframe)
+        wd.find_element(By.ID,'Click').click()
+        # 切换到父窗口
+        wd.switch_to.default_content()
+        """
+
+    14、alert、Confirm、Modal、Dialog弹框处理
+        1、alert、Confirm
+            确认
+            wd.switch_to.alert.accept()
+            取消
+            wd.switch_to.alert.dismiss()
+        2、自定义弹窗直接查找元素
+
+
+
+
+
+
+

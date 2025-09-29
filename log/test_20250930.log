@@ -1,0 +1,83 @@
+INFO - 2025-09-30 00:48:08,322 - basePage.py:147 - basePage:location_element - 元素查找成功【定位方式：xpath - 表达式：xpath=//input[@name="username"]】
+INFO - 2025-09-30 00:48:08,351 - basePage.py:217 - basePage:send_keys - 文本输入成功【目标：('xpath', '//input[@name="username"]') - 文本输入：admin】
+INFO - 2025-09-30 00:48:08,358 - basePage.py:147 - basePage:location_element - 元素查找成功【定位方式：xpath - 表达式：xpath=//input[@name="password"]】
+INFO - 2025-09-30 00:48:08,395 - basePage.py:217 - basePage:send_keys - 文本输入成功【目标：('xpath', '//input[@name="password"]') - 文本输入：admin123456】
+INFO - 2025-09-30 00:48:08,403 - basePage.py:147 - basePage:location_element - 元素查找成功【定位方式：xpath - 表达式：xpath=/html/body/form/table/tbody/tr/td[2]/table/tbody/tr[4]/td/img】
+INFO - 2025-09-30 00:48:08,869 - basePage.py:307 - basePage:ocr_captcha - 识别验证码成功【目标('xpath', '/html/body/form/table/tbody/tr/td[2]/table/tbody/tr[4]/td/img')，验证码：】
+INFO - 2025-09-30 00:48:08,877 - basePage.py:147 - basePage:location_element - 元素查找成功【定位方式：xpath - 表达式：xpath=//input[@name="captcha"]】
+INFO - 2025-09-30 00:48:08,900 - basePage.py:217 - basePage:send_keys - 文本输入成功【目标：('xpath', '//input[@name="captcha"]') - 文本输入：】
+INFO - 2025-09-30 00:49:40,405 - basePage.py:147 - basePage:location_element - 元素查找成功【定位方式：xpath - 表达式：xpath=//input[@name="username"]】
+INFO - 2025-09-30 00:49:40,433 - basePage.py:217 - basePage:send_keys - 文本输入成功【目标：('xpath', '//input[@name="username"]') - 文本输入：admin】
+INFO - 2025-09-30 00:49:40,441 - basePage.py:147 - basePage:location_element - 元素查找成功【定位方式：xpath - 表达式：xpath=//input[@name="password"]】
+INFO - 2025-09-30 00:49:40,476 - basePage.py:217 - basePage:send_keys - 文本输入成功【目标：('xpath', '//input[@name="password"]') - 文本输入：admin123456】
+INFO - 2025-09-30 00:49:40,482 - basePage.py:147 - basePage:location_element - 元素查找成功【定位方式：xpath - 表达式：xpath=/html/body/form/table/tbody/tr/td[2]/table/tbody/tr[4]/td/img】
+INFO - 2025-09-30 00:49:40,808 - basePage.py:307 - basePage:ocr_captcha - 识别验证码成功【目标('xpath', '/html/body/form/table/tbody/tr/td[2]/table/tbody/tr[4]/td/img')，验证码：WD9Z
+
+】
+INFO - 2025-09-30 00:49:40,815 - basePage.py:147 - basePage:location_element - 元素查找成功【定位方式：xpath - 表达式：xpath=//input[@name="captcha"]】
+INFO - 2025-09-30 00:49:40,902 - basePage.py:217 - basePage:send_keys - 文本输入成功【目标：('xpath', '//input[@name="captcha"]') - 文本输入：WD9Z
+
+】
+INFO - 2025-09-30 00:52:26,716 - basePage.py:149 - basePage:location_element - 元素查找成功【定位方式：xpath - 表达式：xpath=//input[@name="username"]】
+INFO - 2025-09-30 00:52:26,745 - basePage.py:219 - basePage:send_keys - 文本输入成功【目标：('xpath', '//input[@name="username"]') - 文本输入：admin】
+INFO - 2025-09-30 00:52:26,753 - basePage.py:149 - basePage:location_element - 元素查找成功【定位方式：xpath - 表达式：xpath=//input[@name="password"]】
+INFO - 2025-09-30 00:52:26,787 - basePage.py:219 - basePage:send_keys - 文本输入成功【目标：('xpath', '//input[@name="password"]') - 文本输入：admin123456】
+INFO - 2025-09-30 00:52:26,794 - basePage.py:149 - basePage:location_element - 元素查找成功【定位方式：xpath - 表达式：xpath=/html/body/form/table/tbody/tr/td[2]/table/tbody/tr[4]/td/img】
+INFO - 2025-09-30 00:52:27,072 - basePage.py:309 - basePage:ocr_captcha - 识别验证码成功【目标('xpath', '/html/body/form/table/tbody/tr/td[2]/table/tbody/tr[4]/td/img')，验证码：>
+
+】
+INFO - 2025-09-30 00:52:27,081 - basePage.py:149 - basePage:location_element - 元素查找成功【定位方式：xpath - 表达式：xpath=//input[@name="captcha"]】
+INFO - 2025-09-30 00:52:27,108 - basePage.py:219 - basePage:send_keys - 文本输入成功【目标：('xpath', '//input[@name="captcha"]') - 文本输入：>
+
+】
+INFO - 2025-09-30 00:52:40,438 - basePage.py:149 - basePage:location_element - 元素查找成功【定位方式：xpath - 表达式：xpath=//input[@name="username"]】
+INFO - 2025-09-30 00:52:40,468 - basePage.py:219 - basePage:send_keys - 文本输入成功【目标：('xpath', '//input[@name="username"]') - 文本输入：admin】
+INFO - 2025-09-30 00:52:40,478 - basePage.py:149 - basePage:location_element - 元素查找成功【定位方式：xpath - 表达式：xpath=//input[@name="password"]】
+INFO - 2025-09-30 00:52:40,571 - basePage.py:219 - basePage:send_keys - 文本输入成功【目标：('xpath', '//input[@name="password"]') - 文本输入：admin123456】
+INFO - 2025-09-30 00:52:40,580 - basePage.py:149 - basePage:location_element - 元素查找成功【定位方式：xpath - 表达式：xpath=/html/body/form/table/tbody/tr/td[2]/table/tbody/tr[4]/td/img】
+INFO - 2025-09-30 00:52:40,868 - basePage.py:309 - basePage:ocr_captcha - 识别验证码成功【目标('xpath', '/html/body/form/table/tbody/tr/td[2]/table/tbody/tr[4]/td/img')，验证码：】
+INFO - 2025-09-30 00:52:40,876 - basePage.py:149 - basePage:location_element - 元素查找成功【定位方式：xpath - 表达式：xpath=//input[@name="captcha"]】
+INFO - 2025-09-30 00:52:40,899 - basePage.py:219 - basePage:send_keys - 文本输入成功【目标：('xpath', '//input[@name="captcha"]') - 文本输入：】
+INFO - 2025-09-30 00:52:49,731 - basePage.py:149 - basePage:location_element - 元素查找成功【定位方式：xpath - 表达式：xpath=//input[@name="username"]】
+INFO - 2025-09-30 00:52:49,758 - basePage.py:219 - basePage:send_keys - 文本输入成功【目标：('xpath', '//input[@name="username"]') - 文本输入：admin】
+INFO - 2025-09-30 00:52:49,766 - basePage.py:149 - basePage:location_element - 元素查找成功【定位方式：xpath - 表达式：xpath=//input[@name="password"]】
+INFO - 2025-09-30 00:52:49,803 - basePage.py:219 - basePage:send_keys - 文本输入成功【目标：('xpath', '//input[@name="password"]') - 文本输入：admin123456】
+INFO - 2025-09-30 00:52:49,810 - basePage.py:149 - basePage:location_element - 元素查找成功【定位方式：xpath - 表达式：xpath=/html/body/form/table/tbody/tr/td[2]/table/tbody/tr[4]/td/img】
+INFO - 2025-09-30 00:52:50,100 - basePage.py:309 - basePage:ocr_captcha - 识别验证码成功【目标('xpath', '/html/body/form/table/tbody/tr/td[2]/table/tbody/tr[4]/td/img')，验证码：ARGI
+
+】
+INFO - 2025-09-30 00:52:50,108 - basePage.py:149 - basePage:location_element - 元素查找成功【定位方式：xpath - 表达式：xpath=//input[@name="captcha"]】
+INFO - 2025-09-30 00:52:50,159 - basePage.py:219 - basePage:send_keys - 文本输入成功【目标：('xpath', '//input[@name="captcha"]') - 文本输入：ARGI
+
+】
+INFO - 2025-09-30 00:53:38,623 - basePage.py:149 - basePage:location_element - 元素查找成功【定位方式：xpath - 表达式：xpath=//input[@name="username"]】
+INFO - 2025-09-30 00:53:38,652 - basePage.py:219 - basePage:send_keys - 文本输入成功【目标：('xpath', '//input[@name="username"]') - 文本输入：admin】
+INFO - 2025-09-30 00:53:38,660 - basePage.py:149 - basePage:location_element - 元素查找成功【定位方式：xpath - 表达式：xpath=//input[@name="password"]】
+INFO - 2025-09-30 00:53:38,697 - basePage.py:219 - basePage:send_keys - 文本输入成功【目标：('xpath', '//input[@name="password"]') - 文本输入：admin123456】
+INFO - 2025-09-30 00:53:38,706 - basePage.py:149 - basePage:location_element - 元素查找成功【定位方式：xpath - 表达式：xpath=/html/body/form/table/tbody/tr/td[2]/table/tbody/tr[4]/td/img】
+INFO - 2025-09-30 00:53:39,039 - basePage.py:310 - basePage:ocr_captcha - 识别验证码成功【目标('xpath', '/html/body/form/table/tbody/tr/td[2]/table/tbody/tr[4]/td/img')，验证码：eae >
+
+】
+INFO - 2025-09-30 00:53:39,047 - basePage.py:149 - basePage:location_element - 元素查找成功【定位方式：xpath - 表达式：xpath=//input[@name="captcha"]】
+INFO - 2025-09-30 00:53:39,078 - basePage.py:219 - basePage:send_keys - 文本输入成功【目标：('xpath', '//input[@name="captcha"]') - 文本输入：eae >
+
+】
+INFO - 2025-09-30 00:55:41,880 - basePage.py:149 - basePage:location_element - 元素查找成功【定位方式：xpath - 表达式：xpath=//input[@name="username"]】
+INFO - 2025-09-30 00:55:41,905 - basePage.py:219 - basePage:send_keys - 文本输入成功【目标：('xpath', '//input[@name="username"]') - 文本输入：admin】
+INFO - 2025-09-30 00:55:41,913 - basePage.py:149 - basePage:location_element - 元素查找成功【定位方式：xpath - 表达式：xpath=//input[@name="password"]】
+INFO - 2025-09-30 00:55:41,946 - basePage.py:219 - basePage:send_keys - 文本输入成功【目标：('xpath', '//input[@name="password"]') - 文本输入：admin123456】
+INFO - 2025-09-30 00:55:41,953 - basePage.py:149 - basePage:location_element - 元素查找成功【定位方式：xpath - 表达式：xpath=/html/body/form/table/tbody/tr/td[2]/table/tbody/tr[4]/td/img】
+INFO - 2025-09-30 00:55:42,247 - basePage.py:310 - basePage:ocr_captcha - 识别验证码成功【目标('xpath', '/html/body/form/table/tbody/tr/td[2]/table/tbody/tr[4]/td/img')，验证码：YOCN
+
+】
+INFO - 2025-09-30 00:55:42,254 - basePage.py:149 - basePage:location_element - 元素查找成功【定位方式：xpath - 表达式：xpath=//input[@name="captcha"]】
+INFO - 2025-09-30 00:55:42,284 - basePage.py:219 - basePage:send_keys - 文本输入成功【目标：('xpath', '//input[@name="captcha"]') - 文本输入：YOCN
+
+】
+INFO - 2025-09-30 01:24:12,398 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：xpath - 表达式：xpath=//input[@name="username"]】
+INFO - 2025-09-30 01:24:12,424 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('xpath', '//input[@name="username"]') - 文本输入：admin】
+INFO - 2025-09-30 01:24:12,433 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：xpath - 表达式：xpath=//input[@name="password"]】
+INFO - 2025-09-30 01:24:12,472 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('xpath', '//input[@name="password"]') - 文本输入：admin123456】
+INFO - 2025-09-30 01:24:12,594 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：xpath - 表达式：xpath=/html/body/form/table/tbody/tr/td[2]/table/tbody/tr[4]/td/img】
+INFO - 2025-09-30 01:24:12,783 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：xpath - 表达式：xpath=//input[@name="captcha"]】
+INFO - 2025-09-30 01:24:12,817 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('xpath', '//input[@name="captcha"]') - 文本输入：QRE9】

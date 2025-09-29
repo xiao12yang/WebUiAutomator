@@ -1,0 +1,50 @@
+1、找开发设置万能验证码
+
+2、屏蔽验证码
+
+3、使用OCR去识别验证码
+    配置：
+        · 下载地址：https://digi.bib.uni-mannheim.de/tesseract/
+        · 双击安装
+        · 配置环境变量
+            拷贝C:\Tools\Tesseract-OCR放到path，新建TESSDATA_PREFIX路径为：C:\Tools\Tesseract-OCR\tessdata
+        · 验证：tesseract -v
+        · python安装：pip install pytesseract
+
+    1）使用tesserac获取验证码
+        · python安装：pip install pytesseract
+        · 导入：
+            import pytesseract
+            from PIL import Image
+        """
+        def ocr_captcha(self,locator:tuple):
+        (((1）定位到图形验证码，保存图片,2）调用Image去打开图像,3）调用pytesseract模块进行OCR识别)))
+
+            captcha_element = self.location_element(*locator)
+            # 截取图形验证码
+            captcha_path = FILE_PATH['screenshot'] + '/captcha.png'
+            captcha_element.screenshot(captcha_path)
+            # 调用Image模块打开图像
+            captcha_image = Image.open(captcha_path)
+            try:
+                # 调用pytesseract进行OCR识别
+                captcha_text = pytesseract.image_to_string(captcha_image)
+                logs.info(f'识别验证码成功【目标{locator}，验证码：{captcha_text}】')
+                return captcha_text
+            except pytesseract.pytesseract.TesseractNotFoundError as e:
+                logs.error(f'找不到tesseract模块，这是因为pytesseract模块依赖于TesseractOCR引擎来进行图像识别!')
+            except Exception as e:
+                logs.error(f'识别验证码失败【出现未知原因：{e}】')
+        """
+
+    2）使用ddddocr获取验证码
+        """
+        def ocr_captcha_ddddOcr(self,locator:tuple):
+            try:
+                ocr = ddddocr.DdddOcr()
+                pngData = self.location_element(*locator).screenshot_as_png
+                captcha = ocr.classification(pngData)
+                return captcha
+            except Exception as e:
+                logs.error(f'识别验证码失败【出现未知原因：{e}】')
+        """

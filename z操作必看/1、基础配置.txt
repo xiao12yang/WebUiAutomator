@@ -1,0 +1,12 @@
+1、下载对应浏览器驱动，根据浏览器的版本选择对应版本的驱动，下载chromedriver或edgedriver
+"""
+chrome驱动下载：https://registry.npmmirror.com/binary.html?path=chrome-for-testing/
+"""
+解压后将里面的chromedriver.exe或edgedriver.exe拷贝到python的安装目录根目录下，如C:\Users\zheng\AppData\Local\Programs\Python\Python312
+如果已经创建好项目，记得重启
+
+
+2、下载selenium、pytest、allure-pytest
+先去百度一下jenkins上面推荐的插件版本，尽量安装相同的版本，避免后面部署时报错
+
+3、

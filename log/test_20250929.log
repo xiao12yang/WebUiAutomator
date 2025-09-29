@@ -1,0 +1,6 @@
+INFO - 2025-09-29 18:51:16,656 - basePage.py:136 - basePage:location_element - 元素查找成功【定位方式：id - 表达式：id=j_idt88:j_idt93】
+INFO - 2025-09-29 18:51:16,690 - basePage.py:206 - basePage:send_keys - 文本输入成功【目标：('id', 'j_idt88:j_idt93') - 文本输入：hello】
+INFO - 2025-09-29 18:51:16,696 - basePage.py:156 - basePage:location_elements - 元素列表查找成功【定位方式：xpath - 表达式：xpath=//*[@id="j_idt88"]/div/div[1]/div】
+INFO - 2025-09-29 19:12:09,036 - basePage.py:144 - basePage:location_element - 元素查找成功【定位方式：id - 表达式：id=j_idt88:j_idt93】
+INFO - 2025-09-29 19:12:09,070 - basePage.py:214 - basePage:send_keys - 文本输入成功【目标：('id', 'j_idt88:j_idt93') - 文本输入：hello】
+INFO - 2025-09-29 19:12:09,080 - basePage.py:164 - basePage:location_elements - 元素列表查找成功【定位方式：xpath - 表达式：xpath=//*[@id="j_idt88"]/div/div[1]/div】

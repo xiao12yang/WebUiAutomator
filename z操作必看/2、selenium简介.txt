@@ -1,0 +1,30 @@
+1、selenium4.0简介
+selenium是流行的自动化测试工具，用于测试Web应用程序的功能和用户界面，他可以模拟用户再浏览器的操作，如点击、输入文本、选择下拉框等，验证页面元素的状态和属性
+selenium可以帮助测试人员自动执行重复的测试任务，提高测试效率并减少人工错误
+原理是使用python工具通过selenium控制driver驱动去操作浏览器。
+
+2、基本使用
+"""
+from selenium import webdriver
+
+driver = webdriver.Chrome()
+driver.get("http://www.baidu.com")
+driver.maximize_window()
+"""
+
+3、特点
+    1）免费开源
+    2）支持多语言，如python、java、C#
+    3）支持多平台，可以在windows、Linux、Mac运行
+    4）支持很多主流浏览器，如Chrome、Edge、Firefox
+    5）分布式，可以把测试用例分发到不同的机器上去执行
+    6）技术支持，拥有成熟的社区
+4、selenium4.0的新特性
+    1）编程语言差异，使用4.0要求python版本为3.7及以上
+    2）定位语法的差异，如：
+        3.0写法为：wd.find_element_by_id('kw')、wd.find_element_by_name('kw')
+        4.0写法为：wd.find_element(By.ID,'kw')、wd.find_elements(By.CLASS,'kw')
+    3）4.0增加了相对定位，可以通过相对定位来定位元素
+        如：above元素上、below元素下、toLeftOf元素左、ToRightOf元素右、near元素附近
+    4）4.0提供了打开新的窗口的功能：driver.switch_to.new_window()
+    5）对于浏览器资源释放做了优化

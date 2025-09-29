@@ -13,6 +13,7 @@ pytest-xdist==3.3.1
 webdriver-manager==4.0.1
 
 # 其他工具
+ddddocr==1.5.6
 requests==2.31.0
 openpyxl==3.1.2
 python-dotenv==1.0.0
