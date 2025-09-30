@@ -42,3 +42,1508 @@ INFO - 2025-10-01 00:36:01,730 - operateExcel.py:62 - operateExcel:read_col - ex
 INFO - 2025-10-01 00:36:19,019 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：../../data/login_testdata.xlsx】
 INFO - 2025-10-01 00:36:19,019 - operateExcel.py:56 - operateExcel:read_col - excel文件读取单列数据成功【工作簿：Sheet1，读取列：1】
 INFO - 2025-10-01 00:36:19,019 - operateExcel.py:62 - operateExcel:read_col - excel文件关闭成功【文件路径：../../data/login_testdata.xlsx】
+INFO - 2025-10-01 00:44:10,142 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：../../data/login_testdata.xlsx】
+INFO - 2025-10-01 00:44:10,142 - operateExcel.py:56 - operateExcel:read_col - excel文件读取单列数据成功【工作簿：Sheet1，读取列：1】
+INFO - 2025-10-01 00:44:10,142 - operateExcel.py:62 - operateExcel:read_col - excel文件关闭成功【文件路径：../../data/login_testdata.xlsx】
+INFO - 2025-10-01 00:44:10,142 - operateExcel.py:74 - operateExcel:read_cell_value - excel文件读取单个单元格数据成功【工作簿：Sheet1，读取行：2，读取列：2】
+INFO - 2025-10-01 00:44:10,142 - operateExcel.py:80 - operateExcel:read_cell_value - excel文件关闭成功【文件路径：../../data/login_testdata.xlsx】
+INFO - 2025-10-01 00:44:26,209 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：../../data/login_testdata.xlsx】
+INFO - 2025-10-01 00:44:26,210 - operateExcel.py:56 - operateExcel:read_col - excel文件读取单列数据成功【工作簿：Sheet1，读取列：1】
+INFO - 2025-10-01 00:44:26,210 - operateExcel.py:62 - operateExcel:read_col - excel文件关闭成功【文件路径：../../data/login_testdata.xlsx】
+INFO - 2025-10-01 00:44:26,210 - operateExcel.py:74 - operateExcel:read_cell_value - excel文件读取单个单元格数据成功【工作簿：Sheet1，读取行：1，读取列：1】
+INFO - 2025-10-01 00:44:26,212 - operateExcel.py:80 - operateExcel:read_cell_value - excel文件关闭成功【文件路径：../../data/login_testdata.xlsx】
+INFO - 2025-10-01 00:44:50,270 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：../../data/login_testdata.xlsx】
+INFO - 2025-10-01 00:44:50,270 - operateExcel.py:56 - operateExcel:read_col - excel文件读取单列数据成功【工作簿：Sheet1，读取列：1】
+INFO - 2025-10-01 00:44:50,270 - operateExcel.py:62 - operateExcel:read_col - excel文件关闭成功【文件路径：../../data/login_testdata.xlsx】
+INFO - 2025-10-01 00:44:50,271 - operateExcel.py:74 - operateExcel:read_cell_value - excel文件读取单个单元格数据成功【工作簿：Sheet1，读取行：1，读取列：1】
+INFO - 2025-10-01 00:44:50,271 - operateExcel.py:80 - operateExcel:read_cell_value - excel文件关闭成功【文件路径：../../data/login_testdata.xlsx】
+INFO - 2025-10-01 00:44:50,271 - operateExcel.py:96 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 00:44:50,271 - operateExcel.py:102 - operateExcel:read_all_row - excel文件关闭成功【文件路径：../../data/login_testdata.xlsx】
+INFO - 2025-10-01 00:50:19,929 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 00:50:20,171 - operateJson.py:15 - operateJson:read_json - json文件读取成功【文件位置：./data/login.json】
+INFO - 2025-10-01 00:50:20,175 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 00:50:20,175 - operateExcel.py:96 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 00:50:20,175 - operateExcel.py:102 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 00:50:20,180 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 00:51:08,610 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 00:51:08,854 - operateJson.py:15 - operateJson:read_json - json文件读取成功【文件位置：./data/login.json】
+INFO - 2025-10-01 00:51:08,858 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 00:51:08,858 - operateExcel.py:96 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 00:51:08,858 - operateExcel.py:102 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 00:51:08,863 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 00:52:55,835 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 00:52:56,092 - operateJson.py:15 - operateJson:read_json - json文件读取成功【文件位置：./data/login.json】
+INFO - 2025-10-01 00:52:56,096 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 00:52:56,096 - operateExcel.py:96 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 00:52:56,096 - operateExcel.py:102 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 00:52:56,100 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 00:52:58,477 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 00:52:58,685 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 00:52:58,755 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：username11】
+INFO - 2025-10-01 00:52:58,764 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 00:52:58,794 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：password12】
+INFO - 2025-10-01 00:52:58,802 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 00:52:58,807 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 00:52:58,843 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 00:53:01,094 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 00:53:01,096 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 00:53:02,334 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 00:53:02,577 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 00:53:02,623 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin11121】
+INFO - 2025-10-01 00:53:02,631 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 00:53:02,664 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin11122】
+INFO - 2025-10-01 00:53:02,672 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 00:53:02,676 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 00:53:02,770 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 00:53:04,972 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 00:53:04,974 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 00:53:06,188 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 00:53:06,411 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 00:53:06,457 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin31】
+INFO - 2025-10-01 00:53:06,466 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 00:53:06,497 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin11132】
+INFO - 2025-10-01 00:53:06,504 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 00:53:06,509 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 00:53:06,594 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 00:53:08,763 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 00:53:08,766 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 00:53:09,977 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 00:53:10,354 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 00:53:10,399 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin11141】
+INFO - 2025-10-01 00:53:10,406 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 00:53:10,435 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin42】
+INFO - 2025-10-01 00:53:10,444 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 00:53:10,448 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 00:53:10,545 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 00:53:12,716 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 00:53:12,721 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 00:53:13,959 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 00:53:14,245 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 00:53:14,289 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：51】
+INFO - 2025-10-01 00:53:14,298 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 00:53:14,328 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin11152】
+INFO - 2025-10-01 00:53:14,334 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 00:53:14,338 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 00:53:14,407 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 00:53:16,579 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 00:53:16,581 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 00:53:17,773 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 00:53:17,948 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 00:53:17,997 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin11161】
+INFO - 2025-10-01 00:53:18,006 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 00:53:18,036 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：62】
+INFO - 2025-10-01 00:53:18,043 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 00:53:18,048 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 00:53:18,086 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 00:53:20,386 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 00:53:20,389 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 00:56:27,615 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 00:56:27,844 - operateJson.py:15 - operateJson:read_json - json文件读取成功【文件位置：./data/login.json】
+INFO - 2025-10-01 00:56:27,848 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 00:56:27,848 - operateExcel.py:96 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 00:56:27,848 - operateExcel.py:102 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 00:56:27,853 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 00:56:29,033 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 00:56:29,292 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 00:56:29,336 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin111】
+INFO - 2025-10-01 00:56:29,346 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 00:56:29,381 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin111】
+INFO - 2025-10-01 00:56:29,388 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 00:56:29,393 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 00:56:29,450 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 00:56:31,696 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 00:56:31,698 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 00:56:32,904 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 00:56:33,116 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 00:56:33,168 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin】
+INFO - 2025-10-01 00:56:33,180 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 00:56:33,212 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin111】
+INFO - 2025-10-01 00:56:33,220 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 00:56:33,224 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 00:56:33,322 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 00:56:45,667 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 00:56:45,669 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 00:56:46,846 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 00:56:47,041 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 00:56:47,095 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin111】
+INFO - 2025-10-01 00:56:47,105 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 00:56:47,134 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin】
+INFO - 2025-10-01 00:56:47,140 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 00:56:47,144 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 00:56:47,216 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 00:56:59,450 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 00:56:59,461 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 00:57:00,639 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 00:57:00,814 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 00:57:00,858 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：】
+INFO - 2025-10-01 00:57:00,865 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 00:57:00,901 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin111】
+INFO - 2025-10-01 00:57:00,908 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 00:57:00,913 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 00:57:00,979 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 00:57:03,174 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 00:57:03,177 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 00:57:04,344 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 00:57:04,527 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 00:57:04,581 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin111】
+INFO - 2025-10-01 00:57:04,589 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 00:57:04,613 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：】
+INFO - 2025-10-01 00:57:04,619 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 00:57:04,625 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 00:57:04,670 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 00:57:06,858 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 00:57:06,861 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 00:57:08,049 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 00:57:08,272 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 00:57:08,312 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：username11】
+INFO - 2025-10-01 00:57:08,320 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 00:57:08,349 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：password12】
+INFO - 2025-10-01 00:57:08,356 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 00:57:08,361 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 00:57:08,413 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 00:57:10,643 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 00:57:10,650 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 00:57:11,806 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 00:57:11,998 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 00:57:12,051 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin11121】
+INFO - 2025-10-01 00:57:12,061 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 00:57:12,092 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin11122】
+INFO - 2025-10-01 00:57:12,098 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 00:57:12,104 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 00:57:12,142 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 00:57:14,360 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 00:57:14,362 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 00:57:15,533 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 00:57:15,708 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 00:57:15,760 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin31】
+INFO - 2025-10-01 00:57:15,770 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 00:57:15,802 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin11132】
+INFO - 2025-10-01 00:57:15,814 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 00:57:15,819 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 00:57:15,857 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 00:57:18,068 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 00:57:18,071 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 00:57:19,249 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 00:57:19,443 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 00:57:19,490 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin11141】
+INFO - 2025-10-01 00:57:19,511 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 00:57:19,539 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin42】
+INFO - 2025-10-01 00:57:19,546 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 00:57:19,551 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 00:57:19,589 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 00:57:21,813 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 00:57:21,815 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 00:57:22,945 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 00:57:23,151 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 00:57:23,201 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：51】
+INFO - 2025-10-01 00:57:23,208 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 00:57:23,242 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin11152】
+INFO - 2025-10-01 00:57:23,252 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 00:57:23,256 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 00:57:23,293 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 00:57:25,565 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 00:57:25,568 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 00:57:26,733 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 00:57:26,903 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 00:57:26,956 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin11161】
+INFO - 2025-10-01 00:57:26,967 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 00:57:26,996 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：62】
+INFO - 2025-10-01 00:57:27,003 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 00:57:27,008 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 00:57:27,080 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 00:57:29,263 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 00:57:29,270 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 01:01:00,848 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 01:01:01,112 - operateJson.py:15 - operateJson:read_json - json文件读取成功【文件位置：./data/login.json】
+INFO - 2025-10-01 01:01:01,117 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:01:01,117 - operateExcel.py:96 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 01:01:01,117 - operateExcel.py:102 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:01:01,122 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 01:01:25,123 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 01:01:25,366 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:01:25,367 - operateExcel.py:96 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 01:01:25,367 - operateExcel.py:102 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:01:25,372 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 01:01:26,623 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 01:01:26,830 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 01:01:26,878 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：username11】
+INFO - 2025-10-01 01:01:26,889 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 01:01:26,921 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：password12】
+INFO - 2025-10-01 01:01:26,929 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 01:01:26,966 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 01:01:29,196 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 01:01:29,198 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 01:01:30,409 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 01:01:30,616 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 01:01:30,674 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin11121】
+INFO - 2025-10-01 01:01:30,681 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 01:01:30,712 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin11122】
+INFO - 2025-10-01 01:01:30,720 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 01:01:30,759 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 01:01:33,014 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 01:01:33,016 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 01:01:34,199 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 01:01:34,368 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 01:01:34,421 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin31】
+INFO - 2025-10-01 01:01:34,434 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 01:01:34,469 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin11132】
+INFO - 2025-10-01 01:01:34,477 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 01:01:34,513 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 01:01:36,709 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 01:01:36,711 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 01:01:37,894 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 01:01:38,123 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 01:01:38,166 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin11141】
+INFO - 2025-10-01 01:01:38,175 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 01:01:38,206 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin42】
+INFO - 2025-10-01 01:01:38,214 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 01:01:38,253 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 01:01:40,487 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 01:01:40,493 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 01:01:41,686 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 01:01:41,856 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 01:01:41,904 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：51】
+INFO - 2025-10-01 01:01:41,913 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 01:01:41,952 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin11152】
+INFO - 2025-10-01 01:01:41,958 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 01:01:42,047 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 01:01:44,223 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 01:01:44,225 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 01:01:45,403 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 01:01:45,620 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 01:01:45,664 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin11161】
+INFO - 2025-10-01 01:01:45,674 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 01:01:45,703 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：62】
+INFO - 2025-10-01 01:01:45,710 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 01:01:45,818 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 01:01:47,987 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 01:01:47,990 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 01:02:04,546 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 01:02:04,805 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:02:04,805 - operateExcel.py:96 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 01:02:04,806 - operateExcel.py:102 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:02:04,974 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 01:02:59,384 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 01:02:59,645 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:02:59,645 - operateExcel.py:96 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 01:02:59,645 - operateExcel.py:102 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:02:59,653 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 01:03:00,863 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 01:03:01,054 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 01:03:01,113 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin11121】
+INFO - 2025-10-01 01:03:01,126 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 01:03:01,160 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin11122】
+INFO - 2025-10-01 01:03:01,170 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 01:03:01,217 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 01:03:03,443 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 01:03:03,445 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 01:03:04,631 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 01:03:04,824 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 01:03:04,878 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin31】
+INFO - 2025-10-01 01:03:04,886 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 01:03:04,916 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin11132】
+INFO - 2025-10-01 01:03:04,923 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 01:03:04,960 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 01:03:07,184 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 01:03:07,186 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 01:03:08,515 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 01:03:08,706 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 01:03:08,758 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin11141】
+INFO - 2025-10-01 01:03:08,768 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 01:03:08,800 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin42】
+INFO - 2025-10-01 01:03:08,807 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 01:03:08,876 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 01:03:11,044 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 01:03:11,046 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 01:03:12,288 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 01:03:12,561 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 01:03:12,614 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：51】
+INFO - 2025-10-01 01:03:12,623 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 01:03:12,653 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin11152】
+INFO - 2025-10-01 01:03:12,662 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 01:03:12,703 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 01:03:14,960 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 01:03:14,963 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 01:03:16,215 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 01:03:16,421 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 01:03:16,479 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin11161】
+INFO - 2025-10-01 01:03:16,488 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 01:03:16,519 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：62】
+INFO - 2025-10-01 01:03:16,527 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 01:03:16,570 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 01:03:18,791 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 01:03:18,794 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 01:06:43,159 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 01:06:43,405 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:06:43,405 - operateExcel.py:97 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 01:06:43,405 - operateExcel.py:103 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:06:43,580 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 01:08:32,807 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 01:08:33,392 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 01:08:33,571 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 01:08:33,675 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:08:33,675 - operateExcel.py:97 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 01:08:33,675 - operateExcel.py:103 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:08:33,748 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 01:08:33,825 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:08:33,825 - operateExcel.py:97 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 01:08:33,825 - operateExcel.py:103 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:08:33,992 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:08:33,992 - operateExcel.py:97 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 01:08:33,992 - operateExcel.py:103 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:08:33,998 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 01:08:33,999 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 01:08:33,999 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 01:08:35,504 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 01:08:35,541 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 01:08:35,559 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 01:08:35,844 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 01:08:35,958 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin11141】
+INFO - 2025-10-01 01:08:35,971 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 01:08:35,975 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 01:08:35,986 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 01:08:36,036 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin42】
+INFO - 2025-10-01 01:08:36,045 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin31】
+INFO - 2025-10-01 01:08:36,049 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 01:08:36,062 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 01:08:36,063 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin11121】
+INFO - 2025-10-01 01:08:36,080 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 01:08:36,125 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin11132】
+INFO - 2025-10-01 01:08:36,138 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 01:08:36,140 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin11122】
+INFO - 2025-10-01 01:08:36,152 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 01:08:36,201 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 01:08:36,247 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 01:08:36,276 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 01:08:38,781 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 01:08:38,781 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 01:08:38,781 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 01:08:38,784 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 01:08:38,785 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 01:08:38,785 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 01:08:40,100 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 01:08:40,104 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 01:08:40,419 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 01:08:40,428 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 01:08:40,494 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：51】
+INFO - 2025-10-01 01:08:40,510 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 01:08:40,511 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin11161】
+INFO - 2025-10-01 01:08:40,523 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 01:08:40,549 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin11152】
+INFO - 2025-10-01 01:08:40,564 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：62】
+INFO - 2025-10-01 01:08:40,577 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 01:08:40,578 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 01:08:40,735 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 01:08:40,739 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 01:08:42,958 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 01:08:42,958 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 01:08:42,978 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 01:08:42,978 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 01:08:43,657 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 01:09:52,902 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 01:09:53,490 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 01:09:53,666 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 01:09:53,777 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:09:53,777 - operateExcel.py:97 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 01:09:53,777 - operateExcel.py:103 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:09:53,852 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 01:09:53,949 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:09:53,950 - operateExcel.py:97 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 01:09:53,950 - operateExcel.py:103 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:09:54,018 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 01:09:54,125 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:09:54,126 - operateExcel.py:97 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 01:09:54,126 - operateExcel.py:103 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:09:54,193 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 01:09:54,277 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:09:54,277 - operateExcel.py:97 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 01:09:54,277 - operateExcel.py:103 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:09:54,436 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:09:54,436 - operateExcel.py:97 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 01:09:54,436 - operateExcel.py:103 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:09:54,441 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 01:09:54,441 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 01:09:54,441 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 01:09:54,441 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 01:09:56,200 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 01:09:56,212 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 01:09:56,419 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 01:09:56,499 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 01:09:56,704 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 01:09:56,868 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 01:09:57,021 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 01:09:57,068 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin11161】
+INFO - 2025-10-01 01:09:57,087 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 01:09:57,126 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 01:09:57,172 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin11141】
+INFO - 2025-10-01 01:09:57,191 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 01:09:57,198 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 01:09:57,215 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 01:09:57,222 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：62】
+INFO - 2025-10-01 01:09:57,237 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 01:09:57,260 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin42】
+INFO - 2025-10-01 01:09:57,266 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin31】
+INFO - 2025-10-01 01:09:57,274 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 01:09:57,288 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 01:09:57,297 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin11121】
+INFO - 2025-10-01 01:09:57,322 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：51】
+INFO - 2025-10-01 01:09:57,334 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 01:09:57,341 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 01:09:57,386 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin11132】
+INFO - 2025-10-01 01:09:57,402 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 01:09:57,410 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin11122】
+INFO - 2025-10-01 01:09:57,424 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin11152】
+INFO - 2025-10-01 01:09:57,425 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 01:09:57,426 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 01:09:57,437 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 01:09:57,449 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 01:09:57,576 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 01:09:57,616 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 01:09:57,643 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 01:10:00,865 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 01:10:00,867 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 01:10:00,919 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 01:10:00,922 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 01:10:00,935 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 01:10:00,935 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 01:10:00,939 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 01:10:00,939 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 01:10:00,949 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 01:10:00,952 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 01:10:01,871 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 01:14:02,911 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 01:14:03,530 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 01:14:03,699 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 01:14:03,825 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:14:03,825 - operateExcel.py:97 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 01:14:03,825 - operateExcel.py:103 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:14:03,902 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 01:14:03,979 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:14:03,980 - operateExcel.py:97 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 01:14:03,980 - operateExcel.py:103 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:14:04,053 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 01:14:04,171 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:14:04,171 - operateExcel.py:97 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 01:14:04,171 - operateExcel.py:103 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:14:04,218 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 01:14:04,315 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:14:04,315 - operateExcel.py:97 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 01:14:04,315 - operateExcel.py:103 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:14:04,460 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:14:04,460 - operateExcel.py:97 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 01:14:04,460 - operateExcel.py:103 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:14:04,466 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 01:14:04,466 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 01:14:04,466 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 01:14:04,466 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 01:14:04,466 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 01:14:06,291 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 01:14:06,334 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 01:14:06,516 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 01:14:06,525 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 01:14:06,685 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 01:14:07,004 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 01:14:07,026 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 01:14:07,064 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 01:14:07,146 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin11141】
+INFO - 2025-10-01 01:14:07,179 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 01:14:07,190 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin11121】
+INFO - 2025-10-01 01:14:07,194 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：51】
+INFO - 2025-10-01 01:14:07,219 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 01:14:07,221 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 01:14:07,229 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 01:14:07,298 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin42】
+INFO - 2025-10-01 01:14:07,314 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin11152】
+INFO - 2025-10-01 01:14:07,321 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 01:14:07,331 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 01:14:07,341 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin11161】
+INFO - 2025-10-01 01:14:07,354 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin11122】
+INFO - 2025-10-01 01:14:07,363 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 01:14:07,375 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 01:14:07,428 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin31】
+INFO - 2025-10-01 01:14:07,459 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：62】
+INFO - 2025-10-01 01:14:07,459 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 01:14:07,466 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 01:14:07,505 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 01:14:07,557 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 01:14:07,640 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin11132】
+INFO - 2025-10-01 01:14:07,656 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 01:14:07,697 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 01:14:07,857 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 01:14:07,877 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 01:14:11,100 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 01:14:11,103 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 01:14:11,163 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 01:14:11,165 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 01:14:11,174 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 01:14:11,177 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 01:14:11,210 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 01:14:11,214 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 01:14:11,220 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 01:14:11,223 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 01:14:11,518 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 01:14:45,482 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 01:14:46,080 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 01:14:46,263 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 01:14:46,398 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:14:46,399 - operateExcel.py:97 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 01:14:46,399 - operateExcel.py:103 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:14:46,454 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 01:14:46,567 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:14:46,568 - operateExcel.py:97 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 01:14:46,568 - operateExcel.py:103 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:14:46,643 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 01:14:46,746 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:14:46,747 - operateExcel.py:97 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 01:14:46,747 - operateExcel.py:103 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:14:46,795 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 01:14:46,924 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:14:46,924 - operateExcel.py:97 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 01:14:46,925 - operateExcel.py:103 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:14:47,060 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:14:47,060 - operateExcel.py:97 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 01:14:47,060 - operateExcel.py:103 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:14:47,065 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 01:14:47,065 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 01:14:47,065 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 01:14:47,065 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 01:14:47,065 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 01:14:48,640 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 01:14:48,878 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 01:14:49,106 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 01:14:49,106 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 01:14:49,250 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 01:14:49,773 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 01:14:49,814 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 01:14:49,839 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 01:14:49,878 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 01:14:49,921 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 01:14:49,943 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin11121】
+INFO - 2025-10-01 01:14:49,953 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin11141】
+INFO - 2025-10-01 01:14:49,962 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin11161】
+INFO - 2025-10-01 01:14:49,964 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 01:14:49,971 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 01:14:49,988 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：51】
+INFO - 2025-10-01 01:14:49,988 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 01:14:50,004 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 01:14:50,037 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin11122】
+INFO - 2025-10-01 01:14:50,041 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin31】
+INFO - 2025-10-01 01:14:50,057 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 01:14:50,060 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 01:14:50,062 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：62】
+INFO - 2025-10-01 01:14:50,065 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin42】
+INFO - 2025-10-01 01:14:50,084 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 01:14:50,089 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 01:14:50,090 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin11152】
+INFO - 2025-10-01 01:14:50,106 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 01:14:50,129 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin11132】
+INFO - 2025-10-01 01:14:50,141 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 01:14:50,222 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 01:14:50,241 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 01:14:50,261 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 01:14:50,384 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 01:14:50,476 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 01:14:53,420 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 01:14:53,422 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 01:14:53,527 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 01:14:53,530 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 01:14:53,664 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 01:14:53,668 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 01:14:53,711 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 01:14:53,711 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 01:14:53,714 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 01:14:53,715 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 01:14:53,979 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 01:18:37,497 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 01:18:38,092 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 01:18:38,276 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 01:18:38,390 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:18:38,390 - operateExcel.py:97 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 01:18:38,390 - operateExcel.py:103 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:18:38,467 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 01:18:38,572 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:18:38,572 - operateExcel.py:97 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 01:18:38,572 - operateExcel.py:103 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:18:38,641 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 01:18:38,737 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:18:38,737 - operateExcel.py:97 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 01:18:38,737 - operateExcel.py:103 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:18:38,825 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 01:18:38,904 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:18:38,904 - operateExcel.py:97 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 01:18:38,904 - operateExcel.py:103 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:18:39,069 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:18:39,070 - operateExcel.py:97 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 01:18:39,070 - operateExcel.py:103 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:18:39,074 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 01:18:39,076 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 01:18:39,076 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 01:18:39,076 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 01:18:39,076 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 01:18:40,660 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 01:18:41,137 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 01:18:41,158 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 01:18:41,345 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 01:18:41,456 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 01:18:41,558 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 01:18:41,666 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 01:18:41,809 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 01:18:41,823 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin11121】
+INFO - 2025-10-01 01:18:41,867 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 01:18:41,887 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin31】
+INFO - 2025-10-01 01:18:41,929 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 01:18:41,965 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 01:18:41,989 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin11122】
+INFO - 2025-10-01 01:18:41,993 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 01:18:42,010 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin11132】
+INFO - 2025-10-01 01:18:42,010 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 01:18:42,020 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin11141】
+INFO - 2025-10-01 01:18:42,027 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 01:18:42,035 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 01:18:42,051 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：51】
+INFO - 2025-10-01 01:18:42,072 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 01:18:42,082 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin11161】
+INFO - 2025-10-01 01:18:42,096 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 01:18:42,096 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin42】
+INFO - 2025-10-01 01:18:42,108 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 01:18:42,124 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin11152】
+INFO - 2025-10-01 01:18:42,134 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 01:18:42,143 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：62】
+INFO - 2025-10-01 01:18:42,153 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 01:18:42,157 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 01:18:42,182 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 01:18:42,357 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 01:18:42,402 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 01:18:42,444 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 01:18:45,841 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 01:18:45,841 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 01:18:45,844 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 01:18:45,844 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 01:18:45,850 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 01:18:45,852 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 01:18:45,881 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 01:18:45,882 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 01:18:45,884 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 01:18:45,884 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 01:18:46,130 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 01:34:27,787 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 01:34:28,378 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 01:34:28,557 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 01:34:28,685 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:34:28,685 - operateExcel.py:97 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 01:34:28,685 - operateExcel.py:103 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:34:28,756 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 01:34:28,830 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:34:28,830 - operateExcel.py:97 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 01:34:28,830 - operateExcel.py:103 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:34:28,913 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 01:34:29,023 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:34:29,023 - operateExcel.py:97 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 01:34:29,023 - operateExcel.py:103 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:34:29,067 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 01:34:29,171 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:34:29,172 - operateExcel.py:97 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 01:34:29,172 - operateExcel.py:103 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:34:29,313 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:34:29,313 - operateExcel.py:97 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 01:34:29,314 - operateExcel.py:103 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:34:29,318 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 01:34:29,318 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 01:34:29,318 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 01:34:29,318 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 01:34:29,318 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 01:34:31,251 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 01:34:31,338 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 01:34:31,352 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 01:34:31,576 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 01:34:31,580 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 01:34:31,794 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 01:34:31,815 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 01:34:32,100 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 01:34:32,101 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin11121】
+INFO - 2025-10-01 01:34:32,105 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 01:34:32,119 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 01:34:32,120 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin11161】
+INFO - 2025-10-01 01:34:32,121 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 01:34:32,141 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 01:34:32,191 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin11122】
+INFO - 2025-10-01 01:34:32,213 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin11141】
+INFO - 2025-10-01 01:34:32,213 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：62】
+INFO - 2025-10-01 01:34:32,215 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 01:34:32,219 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin31】
+INFO - 2025-10-01 01:34:32,224 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：51】
+INFO - 2025-10-01 01:34:32,228 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 01:34:32,228 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 01:34:32,233 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 01:34:32,237 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 01:34:32,271 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin42】
+INFO - 2025-10-01 01:34:32,279 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin11132】
+INFO - 2025-10-01 01:34:32,286 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 01:34:32,287 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin11152】
+INFO - 2025-10-01 01:34:32,295 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 01:34:32,303 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 01:34:32,345 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 01:34:32,437 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 01:34:32,539 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 01:34:32,540 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 01:34:32,563 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 01:34:35,824 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 01:34:35,827 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 01:34:35,847 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 01:34:35,850 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 01:34:35,884 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 01:34:35,885 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 01:34:35,890 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 01:34:35,890 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 01:34:35,912 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 01:34:35,916 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 01:34:36,170 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 01:41:30,903 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 01:41:31,488 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 01:41:31,684 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 01:41:31,833 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:41:31,834 - operateExcel.py:97 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 01:41:31,834 - operateExcel.py:103 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:41:31,929 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 01:41:32,006 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:41:32,006 - operateExcel.py:97 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 01:41:32,006 - operateExcel.py:103 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:41:32,097 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 01:41:32,191 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:41:32,191 - operateExcel.py:97 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 01:41:32,191 - operateExcel.py:103 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:41:32,247 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 01:41:32,353 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:41:32,353 - operateExcel.py:97 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 01:41:32,353 - operateExcel.py:103 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:41:32,488 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:41:32,488 - operateExcel.py:97 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 01:41:32,489 - operateExcel.py:103 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:41:32,495 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 01:41:32,495 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 01:41:32,495 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 01:41:32,495 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 01:41:32,495 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 01:41:34,302 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 01:41:34,781 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 01:41:34,785 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 01:41:34,836 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 01:41:34,849 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 01:41:34,927 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin11121】
+INFO - 2025-10-01 01:41:34,975 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 01:41:35,198 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin11122】
+INFO - 2025-10-01 01:41:35,219 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 01:41:35,237 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 01:41:35,323 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 01:41:35,389 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 01:41:35,415 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin11161】
+INFO - 2025-10-01 01:41:35,431 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 01:41:35,442 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 01:41:35,461 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin11141】
+INFO - 2025-10-01 01:41:35,477 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 01:41:35,479 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 01:41:35,508 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：51】
+INFO - 2025-10-01 01:41:35,524 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：62】
+INFO - 2025-10-01 01:41:35,524 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 01:41:35,546 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 01:41:35,562 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin31】
+INFO - 2025-10-01 01:41:35,579 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin42】
+INFO - 2025-10-01 01:41:35,583 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 01:41:35,593 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 01:41:35,613 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin11152】
+INFO - 2025-10-01 01:41:35,627 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 01:41:35,645 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin11132】
+INFO - 2025-10-01 01:41:35,662 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 01:41:35,744 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 01:41:35,757 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 01:41:35,784 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 01:41:35,877 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 01:41:38,781 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 01:41:38,783 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 01:41:38,821 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 01:41:38,824 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 01:41:38,884 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 01:41:38,886 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 01:41:38,933 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 01:41:38,933 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 01:41:38,936 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 01:41:38,937 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 01:41:39,198 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 01:45:57,544 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 01:45:57,802 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:45:57,803 - operateExcel.py:97 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 01:45:57,803 - operateExcel.py:103 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:45:57,807 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 01:45:59,013 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 01:45:59,202 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 01:45:59,256 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin11121】
+INFO - 2025-10-01 01:45:59,267 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 01:45:59,296 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin11122】
+INFO - 2025-10-01 01:45:59,304 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 01:45:59,344 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 01:46:01,596 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 01:46:01,598 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 01:46:02,762 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 01:46:02,963 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 01:46:03,010 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin31】
+INFO - 2025-10-01 01:46:03,022 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 01:46:03,050 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin11132】
+INFO - 2025-10-01 01:46:03,058 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 01:46:03,147 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 01:46:05,321 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 01:46:05,324 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 01:46:06,524 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 01:46:06,710 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 01:46:06,771 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin11141】
+INFO - 2025-10-01 01:46:06,781 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 01:46:06,811 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin42】
+INFO - 2025-10-01 01:46:06,818 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 01:46:06,861 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 01:46:09,094 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 01:46:09,096 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 01:46:10,270 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 01:46:10,468 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 01:46:10,527 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：51】
+INFO - 2025-10-01 01:46:10,535 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 01:46:10,567 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin11152】
+INFO - 2025-10-01 01:46:10,576 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 01:46:10,617 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 01:46:12,851 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 01:46:12,857 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 01:46:14,052 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 01:46:14,266 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 01:46:14,317 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin11161】
+INFO - 2025-10-01 01:46:14,325 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 01:46:14,353 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：62】
+INFO - 2025-10-01 01:46:14,360 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 01:46:14,400 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 01:46:16,617 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 01:46:16,624 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 01:55:29,803 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 01:55:30,435 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 01:55:30,633 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 01:55:30,777 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:55:30,777 - operateExcel.py:97 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 01:55:30,777 - operateExcel.py:103 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:55:30,846 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 01:55:30,935 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:55:30,935 - operateExcel.py:97 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 01:55:30,935 - operateExcel.py:103 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:55:31,033 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 01:55:31,122 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:55:31,122 - operateExcel.py:97 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 01:55:31,122 - operateExcel.py:103 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:55:31,189 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 01:55:31,298 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:55:31,298 - operateExcel.py:97 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 01:55:31,298 - operateExcel.py:103 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:55:31,441 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:55:31,442 - operateExcel.py:97 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 01:55:31,442 - operateExcel.py:103 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:55:31,447 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 01:55:31,447 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 01:55:31,447 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 01:55:31,447 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 01:55:33,820 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 01:55:34,081 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 01:55:34,207 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 01:55:34,337 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 01:55:34,390 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 01:55:34,507 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 01:55:34,690 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin11161】
+INFO - 2025-10-01 01:55:34,738 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 01:55:34,794 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 01:55:34,802 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 01:55:34,900 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：62】
+INFO - 2025-10-01 01:55:34,954 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 01:55:34,955 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：51】
+INFO - 2025-10-01 01:55:34,955 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin31】
+INFO - 2025-10-01 01:55:34,977 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 01:55:34,983 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 01:55:34,988 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 01:55:35,001 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 01:55:35,045 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin11132】
+INFO - 2025-10-01 01:55:35,058 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin11152】
+INFO - 2025-10-01 01:55:35,060 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 01:55:35,076 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 01:55:35,088 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin11141】
+INFO - 2025-10-01 01:55:35,105 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin11121】
+INFO - 2025-10-01 01:55:35,107 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 01:55:35,123 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 01:55:35,152 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 01:55:35,206 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin42】
+INFO - 2025-10-01 01:55:35,222 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 01:55:35,241 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin11122】
+INFO - 2025-10-01 01:55:35,242 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 01:55:35,261 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 01:55:35,292 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 01:55:35,476 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 01:55:35,517 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 01:55:39,028 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 01:55:39,028 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 01:55:39,031 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 01:55:39,031 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 01:55:39,039 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 01:55:39,040 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 01:55:39,044 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 01:55:39,044 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 01:55:39,055 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 01:55:39,058 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 01:55:39,307 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 01:57:07,388 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 01:57:08,014 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 01:57:08,215 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 01:57:08,332 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:57:08,332 - operateExcel.py:97 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 01:57:08,332 - operateExcel.py:103 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:57:08,410 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 01:57:08,517 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:57:08,518 - operateExcel.py:97 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 01:57:08,518 - operateExcel.py:103 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:57:08,586 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 01:57:08,709 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:57:08,709 - operateExcel.py:97 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 01:57:08,709 - operateExcel.py:103 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:57:08,768 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 01:57:08,871 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:57:08,871 - operateExcel.py:97 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 01:57:08,871 - operateExcel.py:103 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:57:09,026 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:57:09,027 - operateExcel.py:97 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 01:57:09,027 - operateExcel.py:103 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:57:09,032 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 01:57:09,033 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 01:57:09,033 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 01:57:09,033 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 01:57:10,923 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 01:57:10,943 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 01:57:10,947 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 01:57:11,200 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 01:57:11,234 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 01:57:11,620 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 01:57:11,647 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 01:57:11,737 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 01:57:11,786 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 01:57:11,799 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 01:57:11,799 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：51】
+INFO - 2025-10-01 01:57:11,815 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 01:57:11,852 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin11121】
+INFO - 2025-10-01 01:57:11,882 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 01:57:11,896 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin31】
+INFO - 2025-10-01 01:57:11,914 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin11152】
+INFO - 2025-10-01 01:57:11,914 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 01:57:11,926 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin11161】
+INFO - 2025-10-01 01:57:11,928 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 01:57:11,933 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin11141】
+INFO - 2025-10-01 01:57:11,942 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 01:57:11,952 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 01:57:11,961 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin11122】
+INFO - 2025-10-01 01:57:11,977 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin11132】
+INFO - 2025-10-01 01:57:11,977 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 01:57:11,992 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 01:57:12,004 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：62】
+INFO - 2025-10-01 01:57:12,014 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin42】
+INFO - 2025-10-01 01:57:12,028 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 01:57:12,077 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 01:57:12,186 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 01:57:12,196 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 01:57:12,233 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 01:57:12,250 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 01:57:15,710 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 01:57:15,710 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 01:57:15,714 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 01:57:15,715 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 01:57:15,722 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 01:57:15,724 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 01:57:15,756 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 01:57:15,756 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 01:57:15,760 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 01:57:15,761 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 01:57:16,046 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 01:59:21,170 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 01:59:21,748 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 01:59:21,918 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 01:59:22,046 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:59:22,046 - operateExcel.py:97 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 01:59:22,046 - operateExcel.py:103 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:59:22,099 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 01:59:22,199 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:59:22,199 - operateExcel.py:97 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 01:59:22,199 - operateExcel.py:103 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:59:22,277 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 01:59:22,364 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:59:22,365 - operateExcel.py:97 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 01:59:22,365 - operateExcel.py:103 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:59:22,434 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 01:59:22,536 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:59:22,536 - operateExcel.py:97 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 01:59:22,536 - operateExcel.py:103 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:59:22,677 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:59:22,678 - operateExcel.py:97 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 01:59:22,678 - operateExcel.py:103 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:59:22,683 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 01:59:22,683 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 01:59:22,683 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 01:59:22,683 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 01:59:22,683 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 01:59:24,538 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 01:59:24,709 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 01:59:24,822 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 01:59:24,838 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 01:59:24,874 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 01:59:25,200 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 01:59:25,248 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 01:59:25,301 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 01:59:25,358 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin31】
+INFO - 2025-10-01 01:59:25,402 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 01:59:25,427 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：51】
+INFO - 2025-10-01 01:59:25,464 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin11141】
+INFO - 2025-10-01 01:59:25,468 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 01:59:25,474 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 01:59:25,484 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 01:59:25,493 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 01:59:25,517 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin11132】
+INFO - 2025-10-01 01:59:25,534 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 01:59:25,534 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin11152】
+INFO - 2025-10-01 01:59:25,544 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin42】
+INFO - 2025-10-01 01:59:25,550 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 01:59:25,558 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin11121】
+INFO - 2025-10-01 01:59:25,560 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 01:59:25,571 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 01:59:25,573 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin11161】
+INFO - 2025-10-01 01:59:25,586 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 01:59:25,616 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin11122】
+INFO - 2025-10-01 01:59:25,629 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：62】
+INFO - 2025-10-01 01:59:25,633 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 01:59:25,648 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 01:59:25,694 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 01:59:25,710 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 01:59:25,725 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 01:59:25,902 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 01:59:25,920 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 01:59:29,171 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 01:59:29,171 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 01:59:29,175 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 01:59:29,175 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 01:59:29,187 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 01:59:29,191 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 01:59:29,202 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 01:59:29,205 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 01:59:29,217 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 01:59:29,221 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 01:59:29,497 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 01:59:55,717 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 01:59:55,953 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:59:55,954 - operateExcel.py:97 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 01:59:55,954 - operateExcel.py:103 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 01:59:55,957 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 01:59:57,135 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 01:59:57,345 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 01:59:57,394 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin11121】
+INFO - 2025-10-01 01:59:57,402 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 01:59:57,433 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin11122】
+INFO - 2025-10-01 01:59:57,441 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 01:59:57,479 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 01:59:59,757 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 01:59:59,759 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 02:00:00,948 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 02:00:01,159 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 02:00:01,208 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin31】
+INFO - 2025-10-01 02:00:01,216 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 02:00:01,246 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin11132】
+INFO - 2025-10-01 02:00:01,253 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 02:00:01,290 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 02:00:03,510 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 02:00:03,512 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 02:00:04,707 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 02:00:04,907 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 02:00:04,958 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin11141】
+INFO - 2025-10-01 02:00:04,967 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 02:00:04,997 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin42】
+INFO - 2025-10-01 02:00:05,004 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 02:00:05,040 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 02:00:07,279 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 02:00:07,282 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 02:00:08,487 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 02:00:08,694 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 02:00:08,755 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：51】
+INFO - 2025-10-01 02:00:08,764 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 02:00:08,797 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin11152】
+INFO - 2025-10-01 02:00:08,804 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 02:00:08,845 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 02:00:11,096 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 02:00:11,099 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 02:00:12,279 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 02:00:12,451 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 02:00:12,503 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin11161】
+INFO - 2025-10-01 02:00:12,524 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 02:00:12,552 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：62】
+INFO - 2025-10-01 02:00:12,559 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 02:00:12,595 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 02:00:14,832 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 02:00:14,835 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 02:17:39,529 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 02:17:40,162 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 02:17:40,360 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 02:17:40,450 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 02:17:40,451 - operateExcel.py:97 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 02:17:40,451 - operateExcel.py:103 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 02:17:40,530 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 02:17:40,633 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 02:17:40,633 - operateExcel.py:97 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 02:17:40,633 - operateExcel.py:103 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 02:17:40,679 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 02:17:40,798 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 02:17:40,798 - operateExcel.py:97 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 02:17:40,798 - operateExcel.py:103 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 02:17:40,840 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 02:17:40,943 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 02:17:40,943 - operateExcel.py:97 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 02:17:40,943 - operateExcel.py:103 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 02:17:41,087 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 02:17:41,087 - operateExcel.py:97 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 02:17:41,087 - operateExcel.py:103 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 02:17:41,092 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 02:17:41,092 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 02:17:41,092 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 02:17:41,092 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 02:17:41,092 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 02:17:42,984 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 02:17:43,023 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 02:17:43,339 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 02:17:43,368 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 02:17:43,417 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 02:17:43,580 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 02:17:43,594 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 02:17:43,845 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin11161】
+INFO - 2025-10-01 02:17:43,871 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 02:17:43,905 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：62】
+INFO - 2025-10-01 02:17:43,912 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 02:17:43,912 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 02:17:43,912 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 02:17:43,931 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：51】
+INFO - 2025-10-01 02:17:43,950 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 02:17:44,044 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin11121】
+INFO - 2025-10-01 02:17:44,048 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin11141】
+INFO - 2025-10-01 02:17:44,069 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin11152】
+INFO - 2025-10-01 02:17:44,081 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 02:17:44,081 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 02:17:44,095 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 02:17:44,095 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 02:17:44,180 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 02:17:44,192 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin42】
+INFO - 2025-10-01 02:17:44,211 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin11122】
+INFO - 2025-10-01 02:17:44,213 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 02:17:44,221 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin31】
+INFO - 2025-10-01 02:17:44,230 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 02:17:44,239 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 02:17:44,318 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 02:17:44,355 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin11132】
+INFO - 2025-10-01 02:17:44,380 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 02:17:44,387 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 02:17:44,443 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 02:17:44,542 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 02:17:47,356 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 02:17:47,360 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 02:17:47,371 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 02:17:47,374 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 02:17:47,391 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 02:17:47,393 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 02:17:47,407 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 02:17:47,407 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 02:17:47,411 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 02:17:47,411 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 02:17:47,663 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 02:46:08,248 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 02:46:08,844 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 02:46:09,017 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 02:46:09,145 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 02:46:09,145 - operateExcel.py:97 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 02:46:09,145 - operateExcel.py:103 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 02:46:09,198 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 02:46:09,297 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 02:46:09,298 - operateExcel.py:97 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 02:46:09,298 - operateExcel.py:103 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 02:46:09,362 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 02:46:09,473 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 02:46:09,473 - operateExcel.py:97 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 02:46:09,474 - operateExcel.py:103 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 02:46:09,543 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 02:46:09,627 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 02:46:09,628 - operateExcel.py:97 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 02:46:09,628 - operateExcel.py:103 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 02:46:09,792 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 02:46:09,792 - operateExcel.py:97 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 02:46:09,792 - operateExcel.py:103 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 02:46:09,796 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 02:46:09,796 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 02:46:09,797 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 02:46:09,797 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 02:46:09,797 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 02:46:11,576 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 02:46:11,830 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 02:46:11,830 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 02:46:12,089 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 02:46:12,089 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 02:46:12,290 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 02:46:12,294 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 02:46:12,515 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin11121】
+INFO - 2025-10-01 02:46:12,543 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 02:46:12,563 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：51】
+INFO - 2025-10-01 02:46:12,586 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 02:46:12,598 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 02:46:12,629 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 02:46:12,630 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin11122】
+INFO - 2025-10-01 02:46:12,632 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 02:46:12,646 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 02:46:12,686 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin11152】
+INFO - 2025-10-01 02:46:12,700 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin31】
+INFO - 2025-10-01 02:46:12,701 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 02:46:12,715 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 02:46:12,719 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin11141】
+INFO - 2025-10-01 02:46:12,737 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 02:46:12,741 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin11161】
+INFO - 2025-10-01 02:46:12,758 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 02:46:12,811 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin11132】
+INFO - 2025-10-01 02:46:12,822 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin42】
+INFO - 2025-10-01 02:46:12,840 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 02:46:12,842 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：62】
+INFO - 2025-10-01 02:46:12,844 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 02:46:12,859 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 02:46:12,863 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 02:46:12,919 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 02:46:13,041 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 02:46:13,071 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 02:46:13,117 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 02:46:16,272 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 02:46:16,275 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 02:46:16,315 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 02:46:16,317 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 02:46:16,366 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 02:46:16,376 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 02:46:16,380 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 02:46:16,380 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 02:46:16,383 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 02:46:16,384 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 02:46:16,645 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 02:51:33,536 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 02:51:33,779 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 02:51:33,779 - operateExcel.py:97 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 02:51:33,780 - operateExcel.py:103 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 02:51:33,784 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 02:51:34,994 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 02:51:35,179 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 02:51:35,232 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin11121】
+INFO - 2025-10-01 02:51:35,241 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 02:51:35,282 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin11122】
+INFO - 2025-10-01 02:51:35,291 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 02:51:35,335 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 02:51:37,627 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 02:51:37,629 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 02:51:38,774 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 02:51:38,973 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 02:51:39,028 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin31】
+INFO - 2025-10-01 02:51:39,036 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 02:51:39,069 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin11132】
+INFO - 2025-10-01 02:51:39,078 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 02:51:39,159 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 02:51:41,354 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 02:51:41,358 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 02:51:42,563 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 02:51:42,741 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 02:51:42,796 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin11141】
+INFO - 2025-10-01 02:51:42,806 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 02:51:42,839 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin42】
+INFO - 2025-10-01 02:51:42,847 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 02:51:42,927 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 02:51:45,107 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 02:51:45,110 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 02:51:46,310 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 02:51:46,519 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 02:51:46,563 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：51】
+INFO - 2025-10-01 02:51:46,572 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 02:51:46,601 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin11152】
+INFO - 2025-10-01 02:51:46,609 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 02:51:46,648 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 02:51:48,876 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 02:51:48,882 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 02:51:50,135 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 02:51:50,319 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 02:51:50,365 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin11161】
+INFO - 2025-10-01 02:51:50,375 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 02:51:50,406 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：62】
+INFO - 2025-10-01 02:51:50,413 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 02:51:50,449 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 02:51:52,654 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 02:51:52,661 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 02:52:24,516 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 02:52:24,765 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 02:52:24,765 - operateExcel.py:97 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 02:52:24,765 - operateExcel.py:103 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 02:52:24,769 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 02:52:25,979 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 02:52:26,165 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 02:52:26,222 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin11121】
+INFO - 2025-10-01 02:52:26,232 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 02:52:26,267 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin11122】
+INFO - 2025-10-01 02:52:26,276 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 02:52:26,352 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 02:52:28,540 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 02:52:28,542 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 02:52:29,802 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 02:52:30,007 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 02:52:30,056 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin31】
+INFO - 2025-10-01 02:52:30,064 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 02:52:30,095 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin11132】
+INFO - 2025-10-01 02:52:30,104 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 02:52:30,205 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 02:52:32,392 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 02:52:32,394 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 02:52:33,560 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 02:52:33,747 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 02:52:33,795 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin11141】
+INFO - 2025-10-01 02:52:33,808 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 02:52:33,842 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin42】
+INFO - 2025-10-01 02:52:33,850 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 02:52:33,944 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 02:52:36,117 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 02:52:36,119 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 02:52:37,303 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 02:52:37,511 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 02:52:37,557 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：51】
+INFO - 2025-10-01 02:52:37,567 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 02:52:37,596 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin11152】
+INFO - 2025-10-01 02:52:37,603 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 02:52:37,642 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 02:52:39,873 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 02:52:39,876 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 02:52:41,068 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 02:52:41,263 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 02:52:41,317 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin11161】
+INFO - 2025-10-01 02:52:41,325 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 02:52:41,361 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：62】
+INFO - 2025-10-01 02:52:41,369 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 02:52:41,480 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 02:52:43,676 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 02:52:43,679 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 03:02:32,581 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 03:02:32,822 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 03:02:32,822 - operateExcel.py:97 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 03:02:32,822 - operateExcel.py:103 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 03:02:32,826 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 03:02:34,662 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 03:02:34,881 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 03:02:34,929 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin11121】
+INFO - 2025-10-01 03:02:34,939 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 03:02:34,970 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin11122】
+INFO - 2025-10-01 03:02:34,976 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 03:02:35,061 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 03:02:37,280 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 03:02:37,283 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 03:02:38,424 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 03:02:38,618 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 03:02:38,677 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin31】
+INFO - 2025-10-01 03:02:38,687 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 03:02:38,719 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin11132】
+INFO - 2025-10-01 03:02:38,726 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 03:02:38,795 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 03:02:40,979 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 03:02:40,981 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 03:02:42,130 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 03:02:42,336 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 03:02:42,391 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin11141】
+INFO - 2025-10-01 03:02:42,400 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 03:02:42,432 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin42】
+INFO - 2025-10-01 03:02:42,440 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 03:02:42,512 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 03:02:44,721 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 03:02:44,724 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 03:02:45,904 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 03:02:46,122 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 03:02:46,170 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：51】
+INFO - 2025-10-01 03:02:46,179 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 03:02:46,213 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin11152】
+INFO - 2025-10-01 03:02:46,220 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 03:02:46,266 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 03:02:48,517 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 03:02:48,522 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 03:02:49,697 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 03:02:49,906 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 03:02:49,952 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin11161】
+INFO - 2025-10-01 03:02:49,962 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 03:02:49,988 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：62】
+INFO - 2025-10-01 03:02:49,997 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 03:02:50,035 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 03:02:52,252 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 03:02:52,259 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 03:03:09,129 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 03:03:09,720 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 03:03:09,901 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 03:03:10,038 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 03:03:10,039 - operateExcel.py:97 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 03:03:10,039 - operateExcel.py:103 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 03:03:10,100 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 03:03:10,185 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 03:03:10,185 - operateExcel.py:97 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 03:03:10,187 - operateExcel.py:103 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 03:03:10,251 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 03:03:10,367 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 03:03:10,367 - operateExcel.py:97 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 03:03:10,367 - operateExcel.py:103 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 03:03:10,415 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-10-01 03:03:10,518 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 03:03:10,519 - operateExcel.py:97 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 03:03:10,519 - operateExcel.py:103 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 03:03:10,663 - operateExcel.py:19 - operateExcel:__init__ - excel文件打开成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 03:03:10,663 - operateExcel.py:97 - operateExcel:read_all_row - excel文件读取所有行数据成功【工作簿：Sheet1】
+INFO - 2025-10-01 03:03:10,663 - operateExcel.py:103 - operateExcel:read_all_row - excel文件关闭成功【文件路径：./data/login_testdata.xlsx】
+INFO - 2025-10-01 03:03:10,668 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 03:03:10,668 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 03:03:10,668 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 03:03:10,668 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-10-01 03:03:12,367 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 03:03:12,476 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 03:03:12,497 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 03:03:12,829 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 03:03:12,837 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-10-01 03:03:13,112 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 03:03:13,184 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 03:03:13,293 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 03:03:13,349 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin31】
+INFO - 2025-10-01 03:03:13,374 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 03:03:13,384 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin11161】
+INFO - 2025-10-01 03:03:13,389 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 03:03:13,402 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 03:03:13,454 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin11141】
+INFO - 2025-10-01 03:03:13,457 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin11132】
+INFO - 2025-10-01 03:03:13,469 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-10-01 03:03:13,474 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 03:03:13,476 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 03:03:13,499 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：62】
+INFO - 2025-10-01 03:03:13,510 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：51】
+INFO - 2025-10-01 03:03:13,516 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 03:03:13,528 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 03:03:13,551 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin42】
+INFO - 2025-10-01 03:03:13,580 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 03:03:13,581 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin11121】
+INFO - 2025-10-01 03:03:13,601 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-10-01 03:03:13,622 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin11152】
+INFO - 2025-10-01 03:03:13,628 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 03:03:13,641 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 03:03:13,700 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin11122】
+INFO - 2025-10-01 03:03:13,725 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-10-01 03:03:13,760 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 03:03:13,789 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 03:03:13,861 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 03:03:14,042 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-10-01 03:03:17,290 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 03:03:17,292 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 03:03:17,316 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 03:03:17,317 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 03:03:17,319 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 03:03:17,320 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 03:03:17,330 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 03:03:17,332 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 03:03:17,347 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-10-01 03:03:17,350 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-10-01 03:03:17,641 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********

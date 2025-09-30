@@ -90,7 +90,8 @@ class ExcelDataReader:
             sheet = self.workbook[sheet_name]
             max_col = sheet.max_column
             max_row = sheet.max_row
-            for row in sheet.iter_rows(min_row=1,max_row=max_row,min_col=1,max_col=max_col):
+            # 如果有表头，min_row=2，没有就min_row=1
+            for row in sheet.iter_rows(min_row=2,max_row=max_row,min_col=1,max_col=max_col):
                 row_data = [cell.value for cell in row]
                 all_rows_data.append(row_data)
             logs.info(f'excel文件读取所有行数据成功【工作簿：{sheet_name}】')
@@ -110,7 +111,8 @@ class ExcelDataReader:
 if __name__ == '__main__':
     exl = ExcelDataReader('../../data/login_testdata.xlsx')
     print(exl.read_col(sheet_name="Sheet1",col_index=1))
-    print(exl.read_cell_value(sheet_name="Sheet1",col_index=2,row_index=2))
+    print(exl.read_cell_value(sheet_name="Sheet1",col_index=1,row_index=1))
+    print(exl.read_all_row(sheet_name="Sheet1"))
 
 
 

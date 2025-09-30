@@ -188,7 +188,7 @@ class BasePage(object):
         try:
             element = self.location_element(*locator)
             if not force:
-                self.location_element(*locator).click()
+                element.click()
                 logs.info(f'元素点击成功【目标：{locator} - 点击成功】')
             else:
                 self.__driver.execute_script("arguments[0].click();", element)
