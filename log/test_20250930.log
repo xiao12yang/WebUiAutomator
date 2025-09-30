@@ -342,3 +342,251 @@ INFO - 2025-09-30 18:45:17,876 - basePage.py:150 - basePage:location_element - �
 INFO - 2025-09-30 18:45:17,915 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
 INFO - 2025-09-30 18:45:20,134 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
 INFO - 2025-09-30 18:45:20,137 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-09-30 19:14:43,795 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-09-30 19:14:43,908 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-09-30 19:14:45,150 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-09-30 19:14:45,356 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-09-30 19:14:45,425 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin111】
+INFO - 2025-09-30 19:14:45,434 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-09-30 19:14:45,465 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin111】
+INFO - 2025-09-30 19:14:45,475 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-09-30 19:14:45,479 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-09-30 19:14:45,544 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-09-30 19:14:47,791 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-09-30 19:14:47,794 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-09-30 19:14:49,017 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-09-30 19:14:49,295 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-09-30 19:14:49,341 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin】
+INFO - 2025-09-30 19:14:49,349 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-09-30 19:14:49,380 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin111】
+INFO - 2025-09-30 19:14:49,387 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-09-30 19:14:49,392 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-09-30 19:14:49,430 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-09-30 19:15:11,867 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-09-30 19:15:11,869 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-09-30 19:15:13,107 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-09-30 19:15:13,338 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-09-30 19:15:13,385 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin111】
+INFO - 2025-09-30 19:15:13,395 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-09-30 19:15:13,427 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin】
+INFO - 2025-09-30 19:15:13,434 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-09-30 19:15:13,438 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-09-30 19:15:13,475 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-09-30 19:15:35,755 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-09-30 19:15:35,757 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-09-30 19:15:36,998 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-09-30 19:15:37,215 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-09-30 19:15:37,261 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：】
+INFO - 2025-09-30 19:15:37,271 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-09-30 19:15:37,304 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin111】
+INFO - 2025-09-30 19:15:37,312 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-09-30 19:15:37,318 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-09-30 19:15:37,364 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-09-30 19:15:39,571 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-09-30 19:15:39,574 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-09-30 19:15:40,787 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-09-30 19:15:41,206 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-09-30 19:15:41,210 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-09-30 19:16:45,689 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-09-30 19:16:45,793 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-09-30 19:16:47,014 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-09-30 19:16:47,243 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-09-30 19:16:47,284 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin111】
+INFO - 2025-09-30 19:16:47,293 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-09-30 19:16:47,323 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin111】
+INFO - 2025-09-30 19:16:47,331 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-09-30 19:16:47,337 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-09-30 19:16:47,377 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-09-30 19:16:49,597 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-09-30 19:16:49,599 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-09-30 19:16:50,793 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-09-30 19:16:51,022 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-09-30 19:16:51,066 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin】
+INFO - 2025-09-30 19:16:51,075 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-09-30 19:16:51,107 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin111】
+INFO - 2025-09-30 19:16:51,116 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-09-30 19:16:51,121 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-09-30 19:16:51,237 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-09-30 19:17:13,580 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-09-30 19:17:13,582 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-09-30 19:17:14,778 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-09-30 19:17:14,987 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-09-30 19:17:15,034 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin111】
+INFO - 2025-09-30 19:17:15,045 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-09-30 19:17:15,075 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin】
+INFO - 2025-09-30 19:17:15,083 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-09-30 19:17:15,090 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-09-30 19:17:15,132 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-09-30 19:17:37,324 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-09-30 19:17:37,328 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-09-30 19:17:38,511 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-09-30 19:17:38,714 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-09-30 19:17:38,767 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：】
+INFO - 2025-09-30 19:17:38,776 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-09-30 19:17:38,816 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin111】
+INFO - 2025-09-30 19:17:38,825 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-09-30 19:17:38,830 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-09-30 19:17:38,904 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-09-30 19:17:41,090 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-09-30 19:17:41,093 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-09-30 19:17:42,284 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-09-30 19:17:42,511 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-09-30 19:17:42,557 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin111】
+INFO - 2025-09-30 19:17:42,566 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-09-30 19:17:42,590 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：】
+INFO - 2025-09-30 19:17:42,598 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-09-30 19:17:42,603 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-09-30 19:17:42,662 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-09-30 19:17:44,846 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-09-30 19:17:44,852 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-09-30 19:21:45,800 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-09-30 19:21:45,898 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-09-30 19:21:47,126 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-09-30 19:21:47,369 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-09-30 19:21:47,410 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin111】
+INFO - 2025-09-30 19:21:47,421 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-09-30 19:21:47,453 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin111】
+INFO - 2025-09-30 19:21:47,466 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-09-30 19:21:47,471 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-09-30 19:21:47,562 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-09-30 19:21:49,765 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-09-30 19:21:49,767 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-09-30 19:21:50,995 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-09-30 19:21:51,223 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-09-30 19:21:51,265 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin】
+INFO - 2025-09-30 19:21:51,275 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-09-30 19:21:51,304 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin111】
+INFO - 2025-09-30 19:21:51,311 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-09-30 19:21:51,317 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-09-30 19:21:51,426 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-09-30 19:22:03,751 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-09-30 19:22:03,753 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-09-30 19:22:04,967 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-09-30 19:22:05,171 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-09-30 19:22:05,217 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin111】
+INFO - 2025-09-30 19:22:05,225 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-09-30 19:22:05,254 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin】
+INFO - 2025-09-30 19:22:05,263 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-09-30 19:22:05,267 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-09-30 19:22:05,348 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-09-30 19:46:16,924 - operateJson.py:15 - operateJson:read_json - json文件读取成功【json文件路径：../../data/login.json】
+INFO - 2025-09-30 19:49:56,275 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-09-30 19:49:56,402 - operateJson.py:15 - operateJson:read_json - json文件读取成功【文件位置：./data/login.json】
+INFO - 2025-09-30 19:49:56,403 - operateYaml.py:17 - operateYaml:read_yaml - yaml文件读取成功【yaml文件位置：./data/login.yaml】
+INFO - 2025-09-30 19:49:56,407 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-09-30 19:49:58,445 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-09-30 19:49:58,675 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-09-30 19:49:58,733 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin111】
+INFO - 2025-09-30 19:49:58,740 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-09-30 19:49:58,785 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin111】
+INFO - 2025-09-30 19:49:58,795 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-09-30 19:49:58,801 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-09-30 19:49:58,853 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-09-30 19:50:01,135 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-09-30 19:50:01,139 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-09-30 19:50:02,357 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-09-30 19:50:02,558 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-09-30 19:50:02,606 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin】
+INFO - 2025-09-30 19:50:02,614 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-09-30 19:50:02,647 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin111】
+INFO - 2025-09-30 19:50:02,654 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-09-30 19:50:02,661 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-09-30 19:50:02,741 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-09-30 19:50:15,074 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-09-30 19:50:15,074 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-09-30 19:50:16,289 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-09-30 19:50:16,471 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-09-30 19:50:16,533 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin111】
+INFO - 2025-09-30 19:50:16,540 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-09-30 19:50:16,573 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin】
+INFO - 2025-09-30 19:50:16,573 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-09-30 19:50:16,573 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-09-30 19:50:16,609 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-09-30 19:50:28,864 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-09-30 19:50:28,873 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-09-30 19:50:30,128 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-09-30 19:50:30,350 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-09-30 19:50:30,385 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：】
+INFO - 2025-09-30 19:50:30,395 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-09-30 19:50:30,426 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin111】
+INFO - 2025-09-30 19:50:30,435 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-09-30 19:50:30,435 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-09-30 19:50:30,481 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-09-30 19:50:32,651 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-09-30 19:50:32,656 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-09-30 19:50:33,858 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-09-30 19:50:34,051 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-09-30 19:50:34,099 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin111】
+INFO - 2025-09-30 19:50:34,110 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-09-30 19:50:34,135 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：】
+INFO - 2025-09-30 19:50:34,142 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-09-30 19:50:34,145 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-09-30 19:50:34,185 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-09-30 19:50:36,361 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-09-30 19:50:36,372 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-09-30 19:50:37,617 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-09-30 19:50:37,798 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-09-30 19:50:37,849 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin111】
+INFO - 2025-09-30 19:50:37,858 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-09-30 19:50:37,890 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin111】
+INFO - 2025-09-30 19:50:37,897 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-09-30 19:50:37,903 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-09-30 19:50:37,940 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-09-30 19:50:40,184 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-09-30 19:50:40,187 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-09-30 19:50:41,302 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-09-30 19:50:41,484 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-09-30 19:50:41,537 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin】
+INFO - 2025-09-30 19:50:41,547 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-09-30 19:50:41,579 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin111】
+INFO - 2025-09-30 19:50:41,589 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-09-30 19:50:41,599 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-09-30 19:50:41,635 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-09-30 19:50:43,877 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-09-30 19:50:43,879 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-09-30 19:50:45,068 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-09-30 19:50:45,284 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-09-30 19:50:45,344 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin111】
+INFO - 2025-09-30 19:50:45,351 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-09-30 19:50:45,381 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin】
+INFO - 2025-09-30 19:50:45,388 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-09-30 19:50:45,393 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-09-30 19:50:45,463 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-09-30 19:50:47,645 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-09-30 19:50:47,647 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-09-30 19:50:48,819 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-09-30 19:50:49,062 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-09-30 19:50:49,099 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：】
+INFO - 2025-09-30 19:50:49,105 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-09-30 19:50:49,139 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin111】
+INFO - 2025-09-30 19:50:49,148 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-09-30 19:50:49,153 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-09-30 19:50:49,194 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-09-30 19:50:51,373 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-09-30 19:50:51,375 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-09-30 19:50:52,538 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-09-30 19:50:52,748 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-09-30 19:50:52,789 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin111】
+INFO - 2025-09-30 19:50:52,801 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-09-30 19:50:52,825 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：】
+INFO - 2025-09-30 19:50:52,833 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-09-30 19:50:52,837 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-09-30 19:50:52,878 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-09-30 19:50:55,044 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-09-30 19:50:55,052 - conftest.py:10 - conftest:pytest_sessionfinish - ********结束测试*********
+INFO - 2025-09-30 23:10:54,851 - conftest.py:7 - conftest:pytest_sessionstart - ********开始测试*********
+INFO - 2025-09-30 23:10:54,979 - operateJson.py:15 - operateJson:read_json - json文件读取成功【文件位置：./data/login.json】
+INFO - 2025-09-30 23:10:54,980 - operateYaml.py:17 - operateYaml:read_yaml - yaml文件读取成功【yaml文件位置：./data/login.yaml】
+INFO - 2025-09-30 23:10:54,985 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-09-30 23:10:57,579 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-09-30 23:10:57,815 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】
+INFO - 2025-09-30 23:10:57,865 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'username') - 文本输入：admin111】
+INFO - 2025-09-30 23:10:57,872 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=password】
+INFO - 2025-09-30 23:10:57,904 - basePage.py:220 - basePage:send_keys - 文本输入成功【目标：('name', 'password') - 文本输入：admin111】
+INFO - 2025-09-30 23:10:57,913 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-09-30 23:10:57,924 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO - 2025-09-30 23:10:58,058 - basePage.py:192 - basePage:click - 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO - 2025-09-30 23:11:00,246 - conftest.py:16 - conftest:log_output - ********测试用例结束执行*********
+INFO - 2025-09-30 23:11:00,249 - conftest.py:14 - conftest:log_output - ********测试用例开始执行*********
+INFO - 2025-09-30 23:11:01,464 - conftest.py:29 - conftest:get_driver - 打开浏览器成功【浏览器名称：Edge】
+INFO - 2025-09-30 23:11:01,656 - basePage.py:150 - basePage:location_element - 元素查找成功【定位方式：name - 表达式：name=username】

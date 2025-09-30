@@ -19,6 +19,6 @@ FILE_PATH = {
 
 # 钉钉机器人
 # 是否发送消息
-is_dd_msg = False
+is_dd_msg = True
 secret = 'SECccaf2ff601c590f5745c83bd88014610cb7f99a696b13e923de38468284d5da2'
 webhook = 'https://oapi.dingtalk.com/robot/send?access_token=b1b0a9d43da44c2812cd8dcd0bd1f55b8e4017bfd952eadffe0095482d032aef'

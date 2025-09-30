@@ -1,0 +1,16 @@
+#- username: admin111
+#  password: admin111
+#- username: admin
+#  password: admin111
+#- username: admin111
+#  password: admin
+#- username: ""
+#  password: admin111
+#- username: admin111
+#  password: ""
+#
+- [admin111,admin111]
+- [admin,admin111]
+- [admin111,admin]
+- ["",admin111]
+- [admin111,""]

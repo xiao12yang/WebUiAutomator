@@ -1,0 +1,2 @@
+ERROR - 2025-10-01 00:26:24,314 - operateExcel.py:58 - operateExcel:read_col - excel文件读取单列数据异常【原因：tuple index out of range】
+ERROR - 2025-10-01 00:29:09,830 - operateExcel.py:59 - operateExcel:read_col - excel文件读取单列数据异常【原因：tuple index out of range】

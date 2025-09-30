@@ -1,0 +1,23 @@
+三种文件读取方式
+1、yaml读取
+    · 安装pyyaml
+    · 函数
+        """
+        def read_yaml(file_path):
+            data_list = []
+            try:
+                with open(file_path, 'r', encoding='utf-8') as f:
+                    result = yaml.safe_load(f)
+                    if isinstance(result[0],list):
+                        data_list = result
+                    else:
+                        data_list = [tuple(data_dict.values()) for data_dict in result]
+                logs.info(f'yaml文件读取成功【yaml文件位置：{file_path}】')
+                return data_list
+            except Exception as e:
+                logs.error(f'yaml文件读取异常【异常原因：{e}】')
+        """
+2、excel读取
+    · 安装openpyxl，其中文件后缀xls读取不了
+
+
