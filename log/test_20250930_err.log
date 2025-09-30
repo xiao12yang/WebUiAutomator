@@ -1,0 +1,51 @@
+ERROR - 2025-09-30 17:42:17,291 - basePage.py:153 - basePage:location_element - 元素查找失败【定位方式：xpath - 表达式：xpath=//font[@id="ECS_MEMBERZONE"]/font/font - 超时时间：10s】
+ERROR - 2025-09-30 17:42:41,993 - basePage.py:156 - basePage:location_element - 元素查找失败【出现未知异常：Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=140.0.7339.208); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff674c8f935+79685]
+	GetHandleVerifier [0x0x7ff674c8f990+79776]
+	(No symbol) [0x0x7ff674a0cc1a]
+	(No symbol) [0x0x7ff6749f89c5]
+	(No symbol) [0x0x7ff674a1dd0f]
+	(No symbol) [0x0x7ff674a94416]
+	(No symbol) [0x0x7ff674ab4982]
+	(No symbol) [0x0x7ff674a8ca53]
+	(No symbol) [0x0x7ff674a553f2]
+	(No symbol) [0x0x7ff674a561c3]
+	GetHandleVerifier [0x0x7ff674f4e8ad+2959037]
+	GetHandleVerifier [0x0x7ff674f48bba+2935242]
+	GetHandleVerifier [0x0x7ff674f68b47+3066199]
+	GetHandleVerifier [0x0x7ff674ca9b1e+186670]
+	GetHandleVerifier [0x0x7ff674cb19bf+219087]
+	GetHandleVerifier [0x0x7ff674c98c44+117332]
+	GetHandleVerifier [0x0x7ff674c98df9+117769]
+	GetHandleVerifier [0x0x7ff674c7ed28+11064]
+	BaseThreadInitThunk [0x0x7ffb9c44e8d7+23]
+	RtlUserThreadStart [0x0x7ffb9db48d9c+44]
+】
+ERROR - 2025-09-30 17:44:50,182 - basePage.py:156 - basePage:location_element - 元素查找失败【出现未知异常：Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=140.0.7339.208); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff674c8f935+79685]
+	GetHandleVerifier [0x0x7ff674c8f990+79776]
+	(No symbol) [0x0x7ff674a0cc1a]
+	(No symbol) [0x0x7ff6749f89c5]
+	(No symbol) [0x0x7ff674a1dd0f]
+	(No symbol) [0x0x7ff674a94416]
+	(No symbol) [0x0x7ff674ab4982]
+	(No symbol) [0x0x7ff674a8ca53]
+	(No symbol) [0x0x7ff674a553f2]
+	(No symbol) [0x0x7ff674a561c3]
+	GetHandleVerifier [0x0x7ff674f4e8ad+2959037]
+	GetHandleVerifier [0x0x7ff674f48bba+2935242]
+	GetHandleVerifier [0x0x7ff674f68b47+3066199]
+	GetHandleVerifier [0x0x7ff674ca9b1e+186670]
+	GetHandleVerifier [0x0x7ff674cb19bf+219087]
+	GetHandleVerifier [0x0x7ff674c98c44+117332]
+	GetHandleVerifier [0x0x7ff674c98df9+117769]
+	GetHandleVerifier [0x0x7ff674c7ed28+11064]
+	BaseThreadInitThunk [0x0x7ffb9c44e8d7+23]
+	RtlUserThreadStart [0x0x7ffb9db48d9c+44]
+】

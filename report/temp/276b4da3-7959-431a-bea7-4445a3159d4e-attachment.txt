@@ -1,0 +1,10 @@
+INFO     util_tools.logs_util.recordlog:conftest.py:14 ********测试用例开始执行*********
+INFO     util_tools.logs_util.recordlog:conftest.py:29 打开浏览器成功【浏览器名称：Edge】
+INFO     util_tools.logs_util.recordlog:basePage.py:150 元素查找成功【定位方式：name - 表达式：name=username】
+INFO     util_tools.logs_util.recordlog:basePage.py:220 文本输入成功【目标：('name', 'username') - 文本输入：admin111】
+INFO     util_tools.logs_util.recordlog:basePage.py:150 元素查找成功【定位方式：name - 表达式：name=password】
+INFO     util_tools.logs_util.recordlog:basePage.py:220 文本输入成功【目标：('name', 'password') - 文本输入：admin111】
+INFO     util_tools.logs_util.recordlog:basePage.py:150 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO     util_tools.logs_util.recordlog:basePage.py:150 元素查找成功【定位方式：name - 表达式：name=submit】
+INFO     util_tools.logs_util.recordlog:basePage.py:192 元素点击成功【目标：('name', 'submit') - 点击成功】
+INFO     util_tools.logs_util.recordlog:conftest.py:16 ********测试用例结束执行*********

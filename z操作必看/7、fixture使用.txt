@@ -1,0 +1,35 @@
+
+定义夹具
+"""
+@pytest.fixture
+def browser():
+    print("test start")
+    yield
+    print("test end")
+
+
+@pytest.fixture(params=[1,2,3,4])
+def rerun_and_mark(request):
+    print(request)
+当使用这个夹具的测试用例会重复执行，次数为params的长度
+"""
+
+使用夹具
+"""
+类级别前后前后置
+@pytest.mark.usefixtures(browser)
+class TestAddUser:
+
+    # 函数级别
+    @pytest.mark.usefixtures(browser)
+    def test_add_user_001(self):
+
+    # 不带装饰器，直接放到形参
+    def test_add_user_002(self,browser)
+
+"""
+
+
+结合conftest.py全局配置fixture，可以实现多个测试模块共享前后置操作
+注意使用参数化parametrize时每次执行都会执行function级别的fixture
+
