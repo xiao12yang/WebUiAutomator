@@ -11,6 +11,7 @@ from collections import defaultdict
 def testStart():
     print("testStart")
 
+
 # 使用线程安全的字典存储统计信息
 worker_stats = defaultdict(lambda: {
     'total': 0,
@@ -23,6 +24,11 @@ worker_stats = defaultdict(lambda: {
 # 线程锁用于保证统计的线程安全
 _stats_lock = threading.Lock()
 
+
+def pytest_sessionstart(session):
+    """在测试会话开始时记录时间"""
+    # 将开始时间存储在 session.config 中
+    session.config.session_start_time = time.time()
 
 def get_worker_id():
     """获取当前工作节点ID"""
@@ -96,6 +102,11 @@ def pytest_terminal_summary(terminalreporter, exitstatus, config):
     fail_num = terminal_stats['failed']
     skip_num = terminal_stats['skipped']
     error_num = terminal_stats['error']
+    duration = 0
+    session_start_time = getattr(config, 'session_start_time', None)
+    if session_start_time:
+        duration = round(time.time() - session_start_time, 2)
+    formatted_duration = str(timedelta(seconds=duration)).split('.')[0]
 
 
     pass_rate = f'{(pass_num / terminal_total)* 100:.2f}%' if terminal_total > 0 else "N/A"
@@ -111,6 +122,7 @@ def pytest_terminal_summary(terminalreporter, exitstatus, config):
     测试用例错误数量：{error_num}
     错误率：{error_rate}
     测试用例跳过数量：{skip_num}
+    执行总时长：{formatted_duration}
     """
     if is_dd_msg:
         send_dd_msg(summary)

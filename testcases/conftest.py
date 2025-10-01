@@ -3,10 +3,11 @@ from selenium import webdriver
 from util_tools.logs_util.recordlog import logs
 from config.setting import browser_type
 
-def pytest_sessionstart(session):
-    logs.info('********开始测试*********')
 
-def pytest_sessionfinish(session, exitstatus):
+@pytest.fixture(scope="session", autouse=True)
+def sessionStart():
+    logs.info('********开始测试*********')
+    yield
     logs.info('********结束测试*********')
 
 @pytest.fixture(scope='function',autouse=True)

@@ -14,15 +14,15 @@ from util_tools.logs_util.recordlog import logs
 
 
 class TestLogin:
-    # @pytest.mark.parametrize('username,password',read_json('./data/login.json'))
-    # def test_login_success(self,username,password,get_driver):
-    #     login_page = LoginPage(get_driver)
-    #     login_page.login(username,password)
-    #     result = WebDriverWait(get_driver, 10).until(
-    #         ec.presence_of_element_located((By.XPATH, '//font[@id="ECS_MEMBERZONE"]/font/font[@class="f4_b"]'))
-    #     )
-    #     result = result.text
-    #     assert username in result,'测试失败'
+    @pytest.mark.parametrize('username,password',read_json('./data/login.json'))
+    def test_login_success(self,username,password,get_driver):
+        login_page = LoginPage(get_driver)
+        login_page.login(username,password)
+        result = WebDriverWait(get_driver, 10).until(
+            ec.presence_of_element_located((By.XPATH, '//font[@id="ECS_MEMBERZONE"]/font/font[@class="f4_b"]'))
+        )
+        result = result.text
+        assert username in result,'测试失败'
 
     # @pytest.mark.parametrize('username,password',read_yaml('./data/login.yaml'))
     @pytest.mark.parametrize('username,password',ExcelDataReader('./data/login_testdata.xlsx').read_all_row(sheet_name='Sheet1'))
