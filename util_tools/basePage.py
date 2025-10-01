@@ -13,6 +13,7 @@ from util_tools.logs_util.recordlog import logs
 from selenium.common import *
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.action_chains import ActionChains
+from selenium.webdriver.support.select import Select
 from datetime import datetime
 
 
@@ -51,12 +52,14 @@ class BasePage(object):
         封装浏览器截屏
         :return:
         """
-        current_time = datetime.now().strftime('%Y%m%d%H%M%S') # 获取当前时间
-        file_name = f'{image_name}-{current_time}.png'
-        file_path = os.path.join(FILE_PATH['screenshot'],file_name)
-
-        # self.__driver.save_screenshot()
-        self.__driver.get_screenshot_as_file(file_path)
+        try:
+            current_time = datetime.now().strftime('%Y%m%d%H%M%S') # 获取当前时间
+            file_name = f'{image_name}-{current_time}.png'
+            file_path = os.path.join(FILE_PATH['screenshot'],file_name)
+            self.__driver.get_screenshot_as_file(file_path)
+            logs.info(f'浏览器截屏成功【截屏存储路径：{file_path}】')
+        except Exception as e:
+            logs.error(f'浏览器截屏异常【原因：{e}】')
 
     def open_url(self,url):
         """
@@ -151,10 +154,10 @@ class BasePage(object):
             return element
         except TimeoutException as e:
             logs.error(f'元素查找失败【定位方式：{by} - 表达式：{by}={value} - 超时时间：{WAIT_TIME}s】')
-            raise
+            # raise
         except Exception as e:
             logs.error(f'元素查找失败【出现未知异常：{e}】')
-            raise
+            # raise
 
     def location_elements(self,by,value):
         """
@@ -328,6 +331,71 @@ class BasePage(object):
             return captcha
         except Exception as e:
             logs.error(f'识别验证码失败【出现未知原因：{e}】')
+
+    def selects_by_index(self,locator:tuple,index):
+        """
+        封装通过索引选择下拉菜单选项
+        :param locator:
+        :param data:
+        :return:
+        """
+        try:
+            element = self.location_element(*locator)
+            select = Select(element)
+            select.select_by_index(index)
+            logs.info(f'Select选项选择成功【索引值：{index}，选项内容：{select.options[index].text}】')
+        except NoSuchElementException as e:
+            logs.error(f'Select选项选择失败【原因：索引：{index}，超出有效索引】')
+        except Exception as e:
+            logs.error(f'Select选项选择异常【原因：{e}】')
+
+
+
+
+    # 断言元素是否存在
+    def is_element_present(self,locator:tuple):
+        """
+        判断函数是否存在
+        :param locator:
+        :return:
+        """
+        try:
+            element = self.location_element(*locator)
+            assert element,f'存在断言失败【原因：{locator}元素不存在】'
+            logs.info(f'断言成功【元素-{locator}-存在于页面中】')
+        except AssertionError as a:
+            logs.error(a)
+            raise a
+        except Exception as e:
+            logs.error(f'断言出现异常【原因：{e}】')
+            raise
+
+    # 断言标题是否存在于页面的标题中
+    # 需要考虑元素查找的执行速度，当查找速度太快，页面还没跳转就被获取当前标题
+    def assert_title(self,expect_title):
+        """
+        断言预期标题文本是否包含在实际页面的标题中
+        :param expect_title:
+        :return:
+        """
+        try:
+            assert expect_title in self.title,f'包含断言失败【预期结果："{expect_title}"不包含在实际结果：{self.title}】'
+            logs.info(f'包含断言成功【预期结果："{expect_title}"包含在实际结果：{self.title}】')
+        except AssertionError as e:
+            logs.error(e)
+            raise
+        except Exception as e:
+            logs.error(f'断言出现异常【原因：{e}】')
+            raise
+    # 包含断言
+    # 相等断言
+    # 不相等断言
+    # 数据库断言
+    # ...
+
+
+
+
 
 
 

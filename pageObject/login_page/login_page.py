@@ -1,6 +1,8 @@
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from util_tools.basePage import BasePage
+
+# 登录页面类
 class LoginPage(BasePage):
 
     url = 'http://localhost/ecshop/user.php'
@@ -10,6 +12,8 @@ class LoginPage(BasePage):
     password = (By.NAME, 'password')
     # 登录按钮
     submit = (By.NAME, 'submit')
+    # # 断言结果
+    # assert_ele = (By.XPATH, '//font[@id="ECS_MEMBERZONE"]/font/font[@class="f4_b"]')
 
     # 登录操作
     def login(self,user_naem,pass_word):
@@ -24,7 +28,6 @@ class LoginPage(BasePage):
         self.click(self.submit)
 
 
-    # 注册操作
-    # def register(self,):
+
 
 

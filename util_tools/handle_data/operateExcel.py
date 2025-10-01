@@ -109,7 +109,7 @@ class ExcelDataReader:
 
 
 if __name__ == '__main__':
-    exl = ExcelDataReader('../../data/login_testdata.xlsx')
+    exl = ExcelDataReader('../../data/login_failed.xlsx')
     print(exl.read_col(sheet_name="Sheet1",col_index=1))
     print(exl.read_cell_value(sheet_name="Sheet1",col_index=1,row_index=1))
     print(exl.read_all_row(sheet_name="Sheet1"))

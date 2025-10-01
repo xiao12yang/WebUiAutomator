@@ -14,6 +14,7 @@ browser_type = 'edge'
 FILE_PATH = {
     'log': os.path.join(DIR_PATH, 'log'),
     'screenshot': os.path.join(DIR_PATH, 'screenshot'),
+    'ini': os.path.join(DIR_PATH, 'config','config.ini'),
 }
 
 

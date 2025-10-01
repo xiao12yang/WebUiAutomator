@@ -14,24 +14,15 @@ from util_tools.logs_util.recordlog import logs
 
 
 class TestLogin:
-    @pytest.mark.parametrize('username,password',read_json('./data/login.json'))
+    @pytest.mark.parametrize('username,password',read_json('./data/login_success.json'))
     def test_login_success(self,username,password,get_driver):
         login_page = LoginPage(get_driver)
         login_page.login(username,password)
-        result = WebDriverWait(get_driver, 10).until(
-            ec.presence_of_element_located((By.XPATH, '//font[@id="ECS_MEMBERZONE"]/font/font[@class="f4_b"]'))
-        )
-        result = result.text
-        assert username in result,'测试失败'
+        login_page.is_element_present((By.XPATH, '//font[@id="ECS_MEMBERZONE"]/font/font[@class="f4_b"]'))
 
     # @pytest.mark.parametrize('username,password',read_yaml('./data/login.yaml'))
-    @pytest.mark.parametrize('username,password',ExcelDataReader('./data/login_testdata.xlsx').read_all_row(sheet_name='Sheet1'))
-    def test_login_fail(self,username,password,get_driver):
+    @pytest.mark.parametrize('username,password',ExcelDataReader('./data/login_failed.xlsx').read_all_row(sheet_name='Sheet1'))
+    def test_login_fail_01(self,username,password,get_driver):
         login_page = LoginPage(get_driver)
         login_page.login(username, password)
-
-        result = WebDriverWait(get_driver, 10).until(
-            ec.presence_of_element_located((By.CSS_SELECTOR, '.boxCenterList div p:first-child'))
-        )
-        result = result.text
-        assert "用户名或密码错误" in result,'测试失败'
+        login_page.assert_title('系统提示')

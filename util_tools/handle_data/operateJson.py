@@ -19,4 +19,4 @@ def read_json(file_path):
 
 
 if __name__ == '__main__':
-    print(read_json('../../data/login.json'))
+    print(read_json('../../data/login_success.json'))
